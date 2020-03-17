@@ -1,0 +1,208 @@
+,country,total_cases,total_deaths,outbreak_qid
+0,,Total,,
+1,Reporting Country/,,Total,
+2,,confirmed,,
+3,Territory/Area†,‡  cases,deaths,
+4,Western Pacific Region,,,
+5,China,81077,3218,
+6,Republic of Korea,8236,75,
+7,Japan,814,24,Q83872291
+9,Malaysia,553,0,Q83873556
+11,Australia,298,5,Q83873548
+13,Singapore,243,0,Q83873387
+15,Philippines,140,12,Q84055544
+17,Viet Nam,57,0,
+18,Brunei Darussalam,50,0,
+19,Cambodia,12,0,Q83888864
+22,New Zealand,6,0,Q87250803
+23,Mongolia,1,0,Q87708832
+25,Territories**,,,
+26,French Polynesia,3,0,
+27,European Region,,,
+28,Italy,24747,1809,Q84104992
+30,Spain,7753,288,Q84166704
+32,Spain,7753,288,Q86926476
+33,France,5380,127,Q87648388
+34,France,5380,127,Q87656001
+35,France,5380,127,Q87656613
+36,France,5380,127,Q83873593
+38,France,5380,127,Q87143769
+39,France,5380,127,Q87144034
+40,France,5380,127,Q87144085
+41,France,5380,127,Q87144110
+42,France,5380,127,Q87144137
+43,France,5380,127,Q87144163
+44,France,5380,127,Q87144245
+45,France,5380,127,Q87144265
+46,France,5380,127,Q87144289
+47,France,5380,127,Q87144323
+48,France,5380,127,Q87144359
+49,France,5380,127,Q87144389
+50,France,5380,127,Q87144431
+51,France,5380,127,Q87144458
+52,France,5380,127,Q87144476
+53,France,5380,127,Q87144495
+54,France,5380,127,Q87144502
+55,France,5380,127,Q87161441
+56,France,5380,127,Q87162010
+57,France,5380,127,Q87162202
+58,Germany,4838,12,Q87742120
+59,Germany,4838,12,Q83889294
+62,Switzerland,2200,13,Q86717788
+63,The United Kingdom,1395,35,
+65,Netherlands,1135,20,Q86756826
+66,Belgium,1085,5,Q84446340
+69,Norway,1077,1,Q86886544
+70,Sweden,992,3,Q84081576
+73,Austria,959,1,Q86847911
+75,Denmark,898,1,Q86597685
+77,Greece,331,4,Q87068864
+78,Czechia,298,0,
+79,Finland,267,0,Q84055415
+82,Portugal,245,0,Q86948603
+83,Slovenia,219,0,Q87250948
+85,Estonia,205,0,Q87204911
+88,Israel,200,0,Q87070975
+90,Ireland,169,2,Q87186365
+92,Romania,158,0,Q87250752
+94,Poland,150,3,Q87250695
+96,Iceland,138,0,Q87121993
+98,San Marino,92,5,Q87123561
+99,Russian Federation,63,0,
+100,Slovakia,61,0,Q87200954
+102,Bulgaria,51,2,Q87486535
+105,Croatia,49,0,Q87250732
+106,Albania,42,1,Q87450756
+108,Serbia††,41,0,
+110,Hungary,39,1,Q87119811
+111,Luxembourg,38,1.0,Q87250860
+114,Belarus,36,0.0,Q87250788
+115,Cyprus,33,0.0,
+116,Georgia,33,0.0,Q87250913
+119,Latvia,31,0.0,Q87066621
+120,Armenia,26,0.0,Q87648634
+122,Republic of Moldova,23,0.0,
+123,Malta,21,0.0,Q87587760
+125,Azerbaijan,19,0.0,Q87722485
+126,Bosnia and,,,
+127,18,0.0,0.0,
+129,Lithuania,14,0.0,Q87250838
+130,North Macedonia,13,0.0,Q87250897
+132,Monaco,9,0.0,Q87250877
+135,Liechtenstein,7,0.0,Q87250819
+136,Kazakhstan,6,0.0,Q87651995
+138,Turkey,5,0.0,Q87473205
+141,Uzbekistan,4,0.0,
+142,Ukraine,3,1.0,Q87235177
+144,Andorra,2,0.0,Q87715843
+146,Holy See,1,0.0,
+147,,erritories**,,
+148,Faroe Islands,11,0.0,
+149,Jersey,2,0.0,
+150,Gibraltar,1,0.0,
+151,Guernsey,1,0.0,
+152,,outh-East Asia Region,,
+154,Indonesia,117,4.0,Q86913546
+156,India,114,2.0,Q84055514
+157,Thailand,114,1.0,Q83873566
+159,Sri Lanka,19,0.0,Q83889114
+161,Maldives,13,0.0,Q87662895
+163,Bangladesh,5,0.0,Q87540454
+165,Bhutan,1,0.0,Q87715166
+167,Nepal,1,0.0,Q83873573
+169,,astern Mediterranean Region,,
+170,Iran (Islamic Republic,,,
+171,14991,2262.0,245.0,
+172,Qatar,401,0.0,Q87733671
+175,Bahrain,221,1.0,Q87070999
+177,Egypt,126,2.0,Q87116829
+179,Iraq,124,9.0,Q86733728
+180,Kuwait,112,0.0,Q87250691
+183,Saudi Arabia,103,0.0,Q87186117
+184,Lebanon,99,3.0,Q87245450
+186,United Arab Emirates,98,0.0,Q84030045
+188,Pakistan,52,0.0,Q87652000
+191,Morocco,28,1.0,Q87058723
+192,Oman,22,0.0,Q87454162
+194,Tunisia,18,0.0,Q87343682
+197,Afghanistan,16,0.0,Q87768605
+198,Jordan,6,0.0,Q87589148
+200,Sudan,1,1.0,Q87657486
+202,,erritories**,,
+203,occupied Palestinian,,,
+204,38,0.0,0.0,
+205,,egion of the Americas,,
+206,United States of,,,
+207,1678,0.0,0.0,
+208,Canada,304,1.0,Q83873580
+210,Brazil,200,0.0,Q86597695
+213,Chile,75,0.0,Q87191204
+214,Peru,71,0.0,Q87587763
+216,Argentina,56,2.0,Q87235137
+218,Mexico,53,0.0,Q86628344
+220,Panama,43,1.0,Q87477841
+223,Ecuador,37,2.0,Q87250713
+224,Colombia,24,0.0,Q87483673
+226,Costa Rica,23,0.0,Q87477462
+228,Bolivia (Plurinational,,,
+229,11,8.0,0.0,
+230,Jamaica,10,0.0,Q87610822
+232,Paraguay,8,0.0,Q87589123
+234,Dominican Republic,5,0.0,Q87563855
+236,Cuba,4,0.0,Q87590993
+238,Guyana,4,1.0,Q87659698
+240,Uruguay,4,0.0,Q87660365
+242,Honduras,2,0.0,Q87589392
+244,Trinidad and Tobago,2,0.0,Q87694131
+246,Venezuela (Bolivarian,,,
+247,2,0.0,0.0,
+248,Antigua and Barbuda,1,0.0,Q87708331
+250,Guatemala,1,1.0,Q87669612
+252,Saint Lucia,1,0.0,Q87707727
+254,Saint Vincent and the,,,
+255,1,0.0,0.0,
+256,Suriname,1,0.0,Q87664046
+258,,erritories**,,
+259,Martinique,15,0.0,
+260,French Guiana,7,0.0,
+261,Guadeloupe,6,0.0,
+262,Puerto Rico,3,0.0,
+263,Saint Barthelemy,3,0.0,
+264,Curaçao,2,0.0,Q87709760
+266,Saint Martin,2,0.0,
+267,Cayman Islands,1,1.0,
+268,,frican Region,,
+269,South Africa,51,0.0,Q87243915
+271,Algeria,49,3.0,Q87202921
+273,Senegal,26,0.0,Q87745903
+274,Rwanda,5,0.0,Q87714704
+276,Burkina Faso,3,0.0,Q87665364
+279,Cote d’Ivoire,3,0.0,
+280,Democratic Republic,,,
+281,2,0.0,0.0,
+282,Ghana,2,0.0,Q87666247
+284,Namibia,2,0.0,Q87729501
+285,Nigeria,2.0,0.0,Q87718451
+287,Seychelles,2.0,0.0,Q87729500
+288,Central African,,,
+289,,1.0,0.0,
+290,Republic,,,
+291,Congo,1.0,0.0,
+292,Equatorial Guinea,1.0,0.0,Q87742064
+293,Eswatini,1.0,0.0,Q87709973
+295,Ethiopia,1.0,0.0,Q87665038
+297,Gabon,1.0,0.0,Q87666042
+299,Guinea,1.0,0.0,Q87651970
+301,Kenya,1.0,0.0,Q87705884
+303,Mauritania,1.0,0.0,Q87709900
+305,Togo,1.0,0.0,Q87662819
+307,Territories**,,,
+308,Réunion,9.0,0.0,
+309,Mayotte,1.0,0.0,
+310,Subtotal for all,,,
+311,,166799.0,6599.0,
+312,regions,,,
+313,International,,,
+314,conveyance,712.0,7.0,
+315,(Diamond Princess),,,
+316,Grand total,167511.0,6606.0,
