@@ -1,0 +1,123 @@
+,country,total_cases,total_deaths,outbreak_qid,outbreak
+7,Japan,814,24,Q83872291,2019–20 coronavirus outbreak in Japan
+18,Malaysia,553,0,Q83873556,2019–20 coronavirus outbreak in Malaysia
+24,Australia,298,5,Q83873548,2019–20 coronavirus outbreak in Australia
+31,Singapore,243,0,Q83873387,2019–20 coronavirus outbreak in Singapore
+39,Philippines,140,12,Q84055544,2019–20 coronavirus outbreak in the Philippines
+50,Cambodia,12,0,Q83888864,2019–20 coronavirus outbreak in Cambodia
+58,New Zealand,6,0,Q87250803,2020 coronavirus outbreak in New Zealand
+64,Mongolia,1,0,Q87708832,2020 coronavirus pandemic in Mongolia
+72,Italy,24747,1809,Q84104992,2020 COVID-19 outbreak in Italy
+78,Spain,7753,288,Q84166704,2019–20 COVID-19 outbreak in Spain
+83,France,5380,127,Q83873593,2020 coronavirus outbreak in France
+90,Germany,4838,12,Q83889294,2019–20 coronavirus outbreak in Germany
+97,Switzerland,2200,13,Q86717788,2020 coronavirus outbreak in Switzerland
+106,Netherlands,1135,20,Q86756826,2020 coronavirus outbreak in the Netherlands
+114,Belgium,1085,5,Q84446340,2019–20 coronavirus outbreak in Belgium
+118,Norway,1077,1,Q86886544,2020 coronavirus pandemic in Norway
+127,Sweden,992,3,Q84081576,2020 coronavirus pandemic in Sweden
+131,Austria,959,1,Q86847911,2020 coronavirus outbreak in Austria
+138,Denmark,898,1,Q86597685,2020 coronavirus outbreak in Denmark
+148,Greece,331,4,Q87068864,2020 coronavirus pandemic in Greece
+155,Finland,267,0,Q84055415,2019–20 coronavirus outbreak in Finland
+167,Portugal,245,0,Q86948603,2020 COVID-19 outbreak in Portugal
+171,Slovenia,219,0,Q87250948,2020 coronavirus pandemic in Slovenia
+179,Estonia,205,0,Q87204911,2020 coronavirus outbreak in Estonia
+186,Ireland,169,2,Q87186365,2020 coronavirus outbreak in the Republic of Ireland
+197,Romania,158,0,Q87250752,2020 coronavirus outbreak in Romania
+202,Poland,150,3,Q87250695,2020 coronavirus pandemic in Poland
+207,Iceland,138,0,Q87121993,2020 coronavirus outbreak in Iceland
+212,San Marino,92,5,Q87123561,2020 coronavirus outbreak in San Marino
+217,Slovakia,61,0,Q87200954,2020 coronavirus outbreak in Slovakia
+221,Bulgaria,51,2,Q87486535,2020 coronavirus pandemic in Bulgaria
+226,Croatia,49,0,Q87250732,2020 coronavirus outbreak in Croatia
+232,Albania,42,1,Q87450756,2020 coronavirus outbreak in Albania
+239,Hungary,39,1,Q87119811,2020 coronavirus pandemic in Hungary
+242,Luxembourg,38,1.0,Q87250860,2020 coronavirus outbreak in Luxembourg
+248,Belarus,36,0.0,Q87250788,2020 coronavirus outbreak in Belarus
+259,Georgia,33,0.0,Q87250913,2020 coronavirus outbreak in Georgia
+263,Latvia,31,0.0,Q87066621,2020 coronavirus outbreak in Latvia
+270,Armenia,26,0.0,Q87648634,2020 coronavirus pandemic in Armenia
+274,Malta,21,0.0,Q87587760,2020 coronavirus pandemic in Malta
+278,Azerbaijan,19,0.0,Q87722485,2020 coronavirus pandemic in Azerbaijan
+284,Lithuania,14,0.0,Q87250838,2020 coronavirus outbreak in Lithuania
+289,North Macedonia,13,0.0,Q87250897,2020 coronavirus outbreak in North Macedonia
+298,Monaco,9,0.0,Q87250877,2020 coronavirus outbreak in Monaco
+302,Liechtenstein,7,0.0,Q87250819,2020 coronavirus outbreak in Liechtenstein
+308,Kazakhstan,6,0.0,Q87651995,2020 coronavirus pandemic in Kazakhstan
+313,Turkey,5,0.0,Q87473205,2020 coronavirus outbreak in Turkey
+318,Ukraine,3,1.0,Q87235177,2020 coronavirus outbreak in Ukraine
+323,Andorra,2,0.0,Q87715843,2020 coronavirus pandemic in Andorra
+335,Indonesia,117,4.0,Q86913546,2020 coronavirus outbreak in Indonesia
+341,India,114,2.0,Q84055514,2020 coronavirus pandemic in India
+349,Thailand,114,1.0,Q83873566,2019–20 coronavirus outbreak in Thailand
+355,Sri Lanka,19,0.0,Q83889114,2019–20 coronavirus outbreak in Sri Lanka
+368,Maldives,13,0.0,Q87662895,2020 coronavirus pandemic in the Maldives
+372,Bangladesh,5,0.0,Q87540454,2020 coronavirus pandemic in Bangladesh
+375,Bhutan,1,0.0,Q87715166,2020 coronavirus pandemic in Bhutan
+379,Nepal,1,0.0,Q83873573,2019–20 coronavirus outbreak in Nepal
+387,Qatar,401,0.0,Q87733671,2020 coronavirus pandemic in Qatar
+390,Bahrain,221,1.0,Q87070999,2020 coronavirus outbreak in Bahrain
+394,Egypt,126,2.0,Q87116829,2020 coronavirus outbreak in Egypt
+401,Iraq,124,9.0,Q86733728,2020 coronavirus outbreak in Iraq
+408,Kuwait,112,0.0,Q87250691,2020 coronavirus outbreak in Kuwait
+413,Saudi Arabia,103,0.0,Q87186117,2020 coronavirus outbreak in Saudi Arabia
+417,Lebanon,99,3.0,Q87245450,2020 coronavirus outbreak in Lebanon
+422,United Arab Emirates,98,0.0,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates
+431,Pakistan,52,0.0,Q87652000,2020 coronavirus pandemic in Pakistan
+435,Morocco,28,1.0,Q87058723,2020 coronavirus outbreak in Morocco
+444,Oman,22,0.0,Q87454162,2020 coronavirus outbreak in Oman
+447,Tunisia,18,0.0,Q87343682,2020 coronavirus outbreak in Tunisia
+454,Afghanistan,16,0.0,Q87768605,2020 coronavirus pandemic in Afghanistan
+458,Jordan,6,0.0,Q87589148,2020 coronavirus pandemic in Jordan
+464,Sudan,1,1.0,Q87657486,2020 coronavirus pandemic in Sudan
+478,Canada,304,1.0,Q83873580,2019–20 coronavirus outbreak in Canada
+486,Brazil,200,0.0,Q86597695,2020 COVID-19 outbreak in Brazil
+498,Chile,75,0.0,Q87191204,2020 coronavirus outbreak in Chile
+504,Peru,71,0.0,Q87587763,2020 coronavirus pandemic in Peru
+509,Argentina,56,2.0,Q87235137,2020 coronavirus outbreak in Argentina
+514,Mexico,53,0.0,Q86628344,2020 coronavirus outbreak in Mexico
+520,Panama,43,1.0,Q87477841,2020 coronavirus outbreak in Panama
+523,Ecuador,37,2.0,Q87250713,2020 coronavirus outbreak in Ecuador
+531,Colombia,24,0.0,Q87483673,2020 coronavirus pandemic in Colombia
+537,Costa Rica,23,0.0,Q87477462,2020 coronavirus outbreak in Costa Rica
+544,Jamaica,10,0.0,Q87610822,2020 coronavirus pandemic in Jamaica
+549,Paraguay,8,0.0,Q87589123,2020 coronavirus pandemic in Paraguay
+553,Dominican Republic,5,0.0,Q87563855,2020 coronavirus pandemic in the Dominican Republic
+558,Cuba,4,0.0,Q87590993,2020 coronavirus pandemic in Cuba
+562,Guyana,4,1.0,Q87659698,2020 coronavirus pandemic in Guyana
+567,Uruguay,4,0.0,Q87660365,2020 coronavirus pandemic in Uruguay
+572,Honduras,2,0.0,Q87589392,2020 coronavirus pandemic in Honduras
+577,Trinidad and Tobago,2,0.0,Q87694131,2020 coronavirus pandemic in Trinidad and Tobago
+583,Antigua and Barbuda,1,0.0,Q87708331,2020 coronavirus pandemic in Antigua and Barbuda
+586,Guatemala,1,1.0,Q87669612,2020 coronavirus pandemic in Guatemala
+590,Saint Lucia,1,0.0,Q87707727,2020 coronavirus pandemic in Saint Lucia
+596,Suriname,1,0.0,Q87664046,2020 coronavirus pandemic in Suriname
+609,Curaçao,2,0.0,Q87709760,2020 coronavirus pandemic in Curaçao
+626,South Africa,51,0.0,Q87243915,2020 coronavirus outbreak in South Africa
+632,Algeria,49,3.0,Q87202921,2020 coronavirus outbreak in Algeria
+636,Senegal,26,0.0,Q87745903,2020 coronavirus pandemic in Senegal
+643,Rwanda,5,0.0,Q87714704,2020 coronavirus pandemic in Rwanda
+646,Burkina Faso,3,0.0,Q87665364,2020 coronavirus pandemic in Burkina Faso
+652,Ghana,2,0.0,Q87666247,2020 coronavirus pandemic in Ghana
+656,Namibia,2,0.0,Q87729501,2020 coronavirus pandemic in Namibia
+660,Nigeria,2.0,0.0,Q87718451,2020 coronavirus pandemic in Nigeria
+667,Seychelles,2.0,0.0,Q87729500,2020 coronavirus pandemic in Seychelles
+675,Equatorial Guinea,1.0,0.0,Q87742064,2020 coronavirus pandemic in Equatorial Guinea
+679,Eswatini,1.0,0.0,Q87709973,2020 coronavirus pandemic in Eswatini
+687,Ethiopia,1.0,0.0,Q87665038,2020 coronavirus pandemic in Ethiopia
+691,Gabon,1.0,0.0,Q87666042,2020 coronavirus pandemic in Gabon
+697,Guinea,1.0,0.0,Q87651970,2020 coronavirus pandemic in Guinea
+706,Kenya,1.0,0.0,Q87705884,2020 coronavirus pandemic in Kenya
+711,Mauritania,1.0,0.0,Q87709900,2020 coronavirus pandemic in Mauritania
+721,Togo,1.0,0.0,Q87662819,2020 coronavirus pandemic in Togo
+5,China,81077,3218,Q83872271,2019–20 coronavirus pandemic in mainland China
+6,Republic of Korea,8236,75,Q83872398,2019–20 COVID-19 outbreak in South Korea
+12,Viet Nam,57,0,Q83873057,2019–20 coronavirus outbreak in Vietnam
+13,Brunei Darussalam,50,0,Q87412028,2020 coronavirus outbreak in Brunei
+33,Czechia,298,0,Q86919406,2020 coronavirus outbreak in the Czech Republic
+44,Russian Federation,63,0,Q84098939,2019–20 coronavirus outbreak in Russia
+53,Cyprus,33,0.0,Q87580938,2020 coronavirus pandemic in Cyprus
+57,Republic of Moldova,23,0.0,Q87592982,2020 coronavirus pandemic in Moldova
+154,Cote d’Ivoire,3,0.0,Q87704267,2020 coronavirus pandemic in Ivory Coast
+164,Congo,1.0,0.0,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo
