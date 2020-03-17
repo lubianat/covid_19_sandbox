@@ -1,0 +1,63 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20200316215956+01'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20200316215956+01'00'
+InfoBegin
+InfoKey: Author
+InfoValue: Ikejezie, Mr. Juniorcaius (WDC)
+InfoBegin
+InfoKey: Creator
+InfoValue: Microsoft&#174; Word for Office 365
+InfoBegin
+InfoKey: Producer
+InfoValue: Microsoft&#174; Word for Office 365
+PdfID0: dfb473d5b27f404eb3508c1c46af397c
+PdfID1: dfb473d5b27f404eb3508c1c46af397c
+NumberOfPages: 9
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.56 842.04
+PageMediaDimensions: 595.56 842.04
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.56 842.04
+PageMediaDimensions: 595.56 842.04
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.56 842.04
+PageMediaDimensions: 595.56 842.04
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.56 842.04
+PageMediaDimensions: 595.56 842.04
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.56 842.04
+PageMediaDimensions: 595.56 842.04
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.56 842.04
+PageMediaDimensions: 595.56 842.04
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.56 842.04
+PageMediaDimensions: 595.56 842.04
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.56 842.04
+PageMediaDimensions: 595.56 842.04
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.56 842.04
+PageMediaDimensions: 595.56 842.04
