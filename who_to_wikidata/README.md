@@ -1,4 +1,4 @@
-== Who to Wikidata ==
+# Who to Wikidata
 
 The goal of this project is to enable automatic conversion of Who reports about the COVID-19 situation to Quickstatements compatible referenced batches. 
 
@@ -8,7 +8,7 @@ The goal of this project is to enable automatic conversion of Who reports about 
 
 The '''matching_who_table_to_wikidata'''
 
-== Structure of the Quickstatements V1 Command generated ==
+## Structure of the Quickstatements V1 Command generated 
 
 For each row in the who_table_with_qids.csv table:
 
@@ -16,7 +16,7 @@ For each row in the who_table_with_qids.csv table:
     outbreak_qid +'|P1120|' + total_deaths + "|S585|" + who_report_date + "|S248|" + who_report_qid +  '\n' +
     outbreak_qid +'|P1603|' + total_cases + "|S585|" + who_report_date + "|S248|" + who_report_qid +  '\n' )
 
-== How to contribute ==
+## How to contribute 
 
 Do you want to contribute? Great!
 
