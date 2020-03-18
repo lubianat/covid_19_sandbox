@@ -2,11 +2,10 @@
 
 The goal of this project is to enable automatic conversion of Who reports about the COVID-19 situation to Quickstatements compatible referenced batches. 
 
-* The '''scraping_who_table_to_pandas''' script makes a table of cases out of a WHO report.
-* The '''generating_dict_of_countries_to_outbreaks''' script makes a table of matched country names and outbreak items.
-* The '''generating_dict_of_countries_to_outbreaks''' script makes a table of matched country names and outbreak items.
-
-The '''matching_who_table_to_wikidata'''
+* The "scraping_who_table_to_pandas" script makes a table of cases out of a WHO report.
+* The "generating_dict_of_countries_to_outbreaks" script makes a table of matched country names and outbreak items.
+* The "matching_who_table_to_wikidata" joins both previous tables and
+* The "who_table_to_quickstatements" converts the table to quickstaments V1 format
 
 ## Structure of the Quickstatements V1 Command generated 
 
