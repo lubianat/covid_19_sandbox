@@ -3,982 +3,1151 @@
 1,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,Nihon-koku
 2,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,Nippon-koku
 3,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,State of Japan
-4,Q87250860,2020 coronavirus outbreak in Luxembourg,Q32,Luxembourg,Grand Duchy of Luxembourg
-5,Q87250860,2020 coronavirus outbreak in Luxembourg,Q32,Luxembourg,🇱🇺
-6,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,CA
-7,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,ca
-8,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,CDN
-9,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,can
-10,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,CAN
-11,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,British North America
-12,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,🇨🇦
-13,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,Dominion of Canada
-14,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,JAP
-15,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,JP
-16,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,jp
-17,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,JA
-18,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,Land of the Rising Sun
-19,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,Nippon
-20,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,JPN
-21,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,NO
-22,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Norge
-23,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,no
-24,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,NOR
-25,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Kingdom of Norway
-26,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,🇳🇴
-27,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Noreg
-28,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Norvège
-29,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Norwegen
-30,Q87119811,2020 coronavirus pandemic in Hungary,Q28,Hungary,HUN
-31,Q87119811,2020 coronavirus pandemic in Hungary,Q28,Hungary,hu
-32,Q87119811,2020 coronavirus pandemic in Hungary,Q28,Hungary,🇭🇺
-33,Q84166704,2019–20 COVID-19 outbreak in Spain,Q29,Spain,ESP
-34,Q84166704,2019–20 COVID-19 outbreak in Spain,Q29,Spain,España
-35,Q84166704,2019–20 COVID-19 outbreak in Spain,Q29,Spain,ES
-36,Q84166704,2019–20 COVID-19 outbreak in Spain,Q29,Spain,Kingdom of Spain
-37,Q84166704,2019–20 COVID-19 outbreak in Spain,Q29,Spain,🇪🇸
-38,Q87250860,2020 coronavirus outbreak in Luxembourg,Q32,Luxembourg,LU
-39,Q87250860,2020 coronavirus outbreak in Luxembourg,Q32,Luxembourg,LUX
-40,Q87250860,2020 coronavirus outbreak in Luxembourg,Q32,Luxembourg,Luxemburg
-41,Q87250860,2020 coronavirus outbreak in Luxembourg,Q32,Luxembourg,lu
-42,Q84081576,2020 coronavirus pandemic in Sweden,Q34,Sweden,se
-43,Q84081576,2020 coronavirus pandemic in Sweden,Q34,Sweden,SWE
-44,Q84081576,2020 coronavirus pandemic in Sweden,Q34,Sweden,SE
-45,Q84081576,2020 coronavirus pandemic in Sweden,Q34,Sweden,Kingdom of Sweden
-46,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,Danmark
-47,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Southern Ireland
-48,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Eire
-49,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Éire
-50,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Hibernia
-51,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,IRL
-52,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,IE
-53,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Finlandia
-54,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Suomi
-55,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,FIN
-56,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Finnland
-57,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,fi
-58,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,🇫🇮
-59,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Finlande
-60,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Finnia
-61,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Land of Thousand Lakes
-62,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Republic of Finland
-63,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Republiken Finland
-64,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Suomen tasavalta
-65,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,TAN
-66,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,DEN
-67,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,DK
-68,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,DEK
-69,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,dk
-70,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,DNK
-71,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,🇩🇰
-72,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,Denmark proper
-73,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,metropolitan Denmark
-74,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,PL
-75,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,POL
-76,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,ie
-77,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,🇮🇪
-78,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,ireland
-79,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,"Ireland, Republic of"
-80,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Republic of Ireland
-81,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,Hellas
-82,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,Hellenic Republic
-83,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,gr
-84,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,GRE
-85,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,🇬🇷
-86,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,Greek Republic
-87,Q87202921,2020 coronavirus outbreak in Algeria,Q262,Algeria,dz
-88,Q87202921,2020 coronavirus outbreak in Algeria,Q262,Algeria,🇩🇿
-89,Q87202921,2020 coronavirus outbreak in Algeria,Q262,Algeria,People’s Democratic Republic of Algeria
-90,Q87191204,2020 coronavirus outbreak in Chile,Q298,Chile,CHI
-91,Q87191204,2020 coronavirus outbreak in Chile,Q298,Chile,cl
-92,Q87191204,2020 coronavirus outbreak in Chile,Q298,Chile,🇨🇱
-93,Q87191204,2020 coronavirus outbreak in Chile,Q298,Chile,Republic of Chile
-94,Q87191204,2020 coronavirus outbreak in Chile,Q298,Chile,Republica de Chile
-95,Q87191204,2020 coronavirus outbreak in Chile,Q298,Chile,República de Chile
-96,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,SG
-97,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,Garden City
-98,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,SGP
-99,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,sg
-100,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,Singapore City
-101,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,Republic of Singapore
-102,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,🇸🇬
-103,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,Polska
-104,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,🇵🇱
-105,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,Republic of Poland
-106,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,Nederland
-107,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,NED
-108,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,nl
-109,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,the Netherlands
-110,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,Netherlands (after 1945)
-111,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,🇳🇱
-112,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,pe
-113,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,🇵🇪
-114,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,Republic of Peru
-115,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,Republica del Peru
-116,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,República del Perú
-117,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,kp
-118,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,PRK
-119,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,Lion City
-120,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,FL
-121,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,li
-122,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,LI
-123,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,LIE
-124,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,🇱🇮
-125,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,Principality of Liechtenstein
-126,Q87070999,2020 coronavirus outbreak in Bahrain,Q398,Bahrain,BAH
-127,Q87070999,2020 coronavirus outbreak in Bahrain,Q398,Bahrain,bh
-128,Q87070999,2020 coronavirus outbreak in Bahrain,Q398,Bahrain,🇧🇭
-129,Q87070999,2020 coronavirus outbreak in Bahrain,Q398,Bahrain,Kingdom of Bahrain
-130,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,America
-131,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,United States
-132,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,USA
-133,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,the United States
-134,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,the United States of America
-135,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,the US
-136,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,the USA
-137,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,U.S.
-138,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,U.S.A.
-139,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,US
-140,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,US of A
-141,Q87473205,2020 coronavirus outbreak in Turkey,Q43,Turkey,Republic of Turkey
-142,Q87473205,2020 coronavirus outbreak in Turkey,Q43,Turkey,tr
-143,Q87473205,2020 coronavirus outbreak in Turkey,Q43,Turkey,🇹🇷
-144,Q87473205,2020 coronavirus outbreak in Turkey,Q43,Turkey,TUR
-145,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,EGY
-146,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,eg
-147,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,Republic of Egypt
-148,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,Arab Rep. Egypt
-149,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,Arab Republic of Egypt
-150,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,🇪🇬
-151,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,Rep. Egypt
-152,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,Republica Oriental del Uruguay
-153,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,República Oriental del Uruguay
-154,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,URU
-155,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,uy
-156,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,🇺🇾
-157,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,MEX
-158,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,Mexican Republic
-159,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,MX
-160,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,mx
-161,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,Dem. Rep. Korea
-162,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,Democratic People's Republic of Korea
-163,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,DPRK
-164,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,🇰🇵
-165,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,N. Korea
-166,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Camboya
-167,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Kamboja
-168,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Campuchia
-169,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Kambodzha
-170,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Kampuchea
-171,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,kh
-172,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,🇰🇭
-173,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Kingdom of Cambodia
-174,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,LTU
-175,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,lt
-176,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,Lietuva
-177,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,🇱🇹
-178,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,Republic of Lithuania
-179,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,GBR
-180,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,UK
-181,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,🇬🇧
-182,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,U.K.
-183,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,United Kingdom of Great Britain and Northern Ireland
-184,Q84055514,2020 coronavirus pandemic in India,Q668,India,IND
-185,Q84055514,2020 coronavirus pandemic in India,Q668,India,in
-186,Q84055514,2020 coronavirus pandemic in India,Q668,India,Bharat
-187,Q84055514,2020 coronavirus pandemic in India,Q668,India,Bharatvarsh
-188,Q84055514,2020 coronavirus pandemic in India,Q668,India,Hindustan
-189,Q84055514,2020 coronavirus pandemic in India,Q668,India,IN
-190,Q84055514,2020 coronavirus pandemic in India,Q668,India,🇮🇳
-191,Q84055514,2020 coronavirus pandemic in India,Q668,India,Republic of India
-192,Q87648634,2020 coronavirus pandemic in Armenia,Q399,Armenia,ARM
-193,Q87648634,2020 coronavirus pandemic in Armenia,Q399,Armenia,🇦🇲
-194,Q87648634,2020 coronavirus pandemic in Armenia,Q399,Armenia,Republic of Armenia
-195,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,SRB
-196,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,rs
-197,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,Republic of Serbia
-198,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,Republika Srbija
-199,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,🇷🇸
-200,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,Srbija
-201,Q86948603,2020 coronavirus pandemic in Portugal,Q45,Portugal,Portuguese Republic
-202,Q86948603,2020 coronavirus pandemic in Portugal,Q45,Portugal,pt
-203,Q86948603,2020 coronavirus pandemic in Portugal,Q45,Portugal,PT
-204,Q86948603,2020 coronavirus pandemic in Portugal,Q45,Portugal,🇵🇹
-205,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,NL
-206,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,Holland
-207,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,U. S. A.
-208,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,U. S.
-209,Q84446340,2020 coronavirus pandemic in Belgium,Q31,Belgium,be
-210,Q84446340,2020 coronavirus pandemic in Belgium,Q31,Belgium,🇧🇪
-211,Q84446340,2020 coronavirus pandemic in Belgium,Q31,Belgium,BEL
-212,Q84446340,2020 coronavirus pandemic in Belgium,Q31,Belgium,Kingdom of Belgium
-213,Q86847911,2020 coronavirus outbreak in Austria,Q40,Austria,AT
-214,Q86847911,2020 coronavirus outbreak in Austria,Q40,Austria,AUT
-215,Q86847911,2020 coronavirus outbreak in Austria,Q40,Austria,at
-216,Q86847911,2020 coronavirus outbreak in Austria,Q40,Austria,Republic of Austria
-217,Q86847911,2020 coronavirus outbreak in Austria,Q40,Austria,Republik Österreich
-218,Q86847911,2020 coronavirus outbreak in Austria,Q40,Austria,Österreich
-219,Q86847911,2020 coronavirus outbreak in Austria,Q40,Austria,🇦🇹
-220,Q87836826,2019–20 COVID-19 pandemic in East Timor,Q574,East Timor,TLS
-221,Q87836826,2019–20 COVID-19 pandemic in East Timor,Q574,East Timor,Democratic Republic of East Timor
-222,Q87836826,2019–20 COVID-19 pandemic in East Timor,Q574,East Timor,Democratic Republic of Timor-Leste
-223,Q87836826,2019–20 COVID-19 pandemic in East Timor,Q574,East Timor,Timor Leste
-224,Q87836826,2019–20 COVID-19 pandemic in East Timor,Q574,East Timor,Timor-Leste
-225,Q87836826,2019–20 COVID-19 pandemic in East Timor,Q574,East Timor,tl
-226,Q87836826,2019–20 COVID-19 pandemic in East Timor,Q574,East Timor,🇹🇱
-227,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,Aotearoa
-228,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,Dominion of New Zealand
-229,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,nz
-230,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,NZ
-231,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,🇳🇿
-232,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,NZL
-233,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,🇲🇽
-234,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,United Mexican States
-235,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,KE
-236,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,ke
-237,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,🇰🇪
-238,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,KEN
-239,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,Republic of Kenya
-240,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,ITA
-241,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,it
-242,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,IT
-243,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,🇮🇹
-244,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,Italia
-245,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,Italian Republic
-246,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Swiss
-247,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,CH
-248,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,CHE
-249,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,MGL
-250,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,MNG
-251,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,🇲🇳
-252,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,mn
-253,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,Mongol uls
-254,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,fj
-255,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,FIJ
-256,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,🇫🇯
-257,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,Republic of Fiji
-258,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,Republic of the Fiji Islands
-259,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,Bolivarian Republic of Venezuela
-260,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,BR Venezuela
-261,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,Estados Unidos de Venezuela
-262,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,VE
-263,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,🇻🇪
-264,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,VEN
-265,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,Vzla
-266,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,SA
-267,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,za
-268,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,Republic of South Africa
-269,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,RSA
-270,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,🇿🇦
-271,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,zaf
-272,Q87202921,2020 coronavirus outbreak in Algeria,Q262,Algeria,ALG
-273,Q83873548,2019–20 coronavirus outbreak in Australia,Q408,Australia,AU
-274,Q83873548,2019–20 coronavirus outbreak in Australia,Q408,Australia,au
-275,Q83873548,2019–20 coronavirus outbreak in Australia,Q408,Australia,AUS
-276,Q83873548,2019–20 coronavirus outbreak in Australia,Q408,Australia,Ꜷ
-277,Q83873548,2019–20 coronavirus outbreak in Australia,Q408,Australia,British Colony of Australia
-278,Q83873548,2019–20 coronavirus outbreak in Australia,Q408,Australia,Commonwealth of Australia
-279,Q83873548,2019–20 coronavirus outbreak in Australia,Q408,Australia,Straya
-280,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,AR
-281,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,ARG
-282,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,ar
-283,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,🇦🇷
-284,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,Argentine Republic
-285,Q84098939,2019–20 coronavirus outbreak in Russia,Q159,Russia,RU
-286,Q84098939,2019–20 coronavirus outbreak in Russia,Q159,Russia,Russian Federation
-287,Q84098939,2019–20 coronavirus outbreak in Russia,Q159,Russia,RUS
-288,Q84098939,2019–20 coronavirus outbreak in Russia,Q159,Russia,ru
-289,Q84098939,2019–20 coronavirus outbreak in Russia,Q159,Russia,Rossiya
-290,Q84098939,2019–20 coronavirus outbreak in Russia,Q159,Russia,Rossija
-291,Q84098939,2019–20 coronavirus outbreak in Russia,Q159,Russia,Rossijskaja Federatsija
-292,Q84098939,2019–20 coronavirus outbreak in Russia,Q159,Russia,Rossiyskaya Federatsiya
-293,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,ECU
-294,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,EC
-295,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,ecu
-296,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,BRD
-297,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,Bundesrepublik Deutschland
-298,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,de
-299,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,Deutschland
-300,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,Federal Republic of Germany
-301,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,FRG
-302,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,GER
-303,Q87665038,2020 coronavirus pandemic in Ethiopia,Q115,Ethiopia,et
-304,Q87665038,2020 coronavirus pandemic in Ethiopia,Q115,Ethiopia,🇪🇹
-305,Q87665038,2020 coronavirus pandemic in Ethiopia,Q115,Ethiopia,ETH
-306,Q87665038,2020 coronavirus pandemic in Ethiopia,Q115,Ethiopia,Federal Democratic Republic of Ethiopia
-307,Q87666247,2020 coronavirus pandemic in Ghana,Q117,Ghana,GHA
-308,Q87666247,2020 coronavirus pandemic in Ghana,Q117,Ghana,gh
-309,Q87666247,2020 coronavirus pandemic in Ghana,Q117,Ghana,🇬🇭
-310,Q87666247,2020 coronavirus pandemic in Ghana,Q117,Ghana,Republic of Ghana
-311,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,🇧🇴
-312,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,bol
-313,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,Plurinational State of Bolivia
-314,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,Republic of Bolivia
-315,Q87694131,2020 coronavirus pandemic in Trinidad and Tobago,Q754,Trinidad and Tobago,TTO
-316,Q87694131,2020 coronavirus pandemic in Trinidad and Tobago,Q754,Trinidad and Tobago,tt
-317,Q87694131,2020 coronavirus pandemic in Trinidad and Tobago,Q754,Trinidad and Tobago,Republic of Trinidad and Tobago
-318,Q87694131,2020 coronavirus pandemic in Trinidad and Tobago,Q754,Trinidad and Tobago,🇹🇹
-319,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,St. Vincent
-320,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,St Vincent
-321,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,Saint Vincent
-322,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,St Vincent and the Grenadines
-323,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,St. Vincent and the Grenadines
-324,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,vc
-325,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,🇻🇨
-326,Q87707727,2020 coronavirus pandemic in Saint Lucia,Q760,Saint Lucia,St Lucia
-327,Q87707727,2020 coronavirus pandemic in Saint Lucia,Q760,Saint Lucia,St. Lucia
-328,Q87707727,2020 coronavirus pandemic in Saint Lucia,Q760,Saint Lucia,lc
-329,Q87707727,2020 coronavirus pandemic in Saint Lucia,Q760,Saint Lucia,🇱🇨
-330,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,China
-331,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,CHN
-332,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,cn
-333,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,CN
-334,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,🇨🇳
-335,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,Communist China
-336,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,PR China
-337,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,PRC
-338,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Schweiz
-339,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,ec
-340,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,🇪🇨
-341,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,Republic of Ecuador
-342,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,Republic of the Equator
-343,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,The Ecuadorian State
-344,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,ro
-345,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,Rumania
-346,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,🇷🇴
-347,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,România
-348,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,Roumania
-349,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,bg
-350,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,BUL
-351,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,BGR
-352,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,by
-353,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,White Russia
-354,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,BLR
-355,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,White Ruthenia
-356,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Byelorussia
-357,Q83873593,2020 coronavirus outbreak in France,Q142,France,La France
-358,Q83873593,2020 coronavirus outbreak in France,Q142,France,FRA
-359,Q83873593,2020 coronavirus outbreak in France,Q142,France,FR
-360,Q83873593,2020 coronavirus outbreak in France,Q142,France,French Republic
-361,Q83873593,2020 coronavirus outbreak in France,Q142,France,fr
-362,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,🇮🇷
-363,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,Islamic Rep. Iran
-364,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,Islamic Republic of Iran
-365,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,Republic of Iran
-366,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,IRQ
-367,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,al-‘Irāq
-368,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,iq
-369,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,🇮🇶
-370,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,Jumhūriyyat al-‘Irāq
-371,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,Komar-i ‘Êraq
-372,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,Republic of Iraq
-373,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,CRC
-374,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,br
-375,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,BR
-376,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,🇧🇷
-377,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,BRA
-378,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Brasil
-379,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Estados Unidos del Brazil
-380,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Federativa Republica do Brasil
-381,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Federativa República do Brasil
-382,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Federative Republic of Brazil
-383,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Republic Federative of Brasil
-384,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Republica Federativa do Brasil
-385,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,República Federativa do Brasil
-386,Q84098939,2019–20 coronavirus outbreak in Russia,Q159,Russia,Rus
-387,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,COL
-388,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,🇨🇴
-389,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,Republic of Colombia
-390,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,Republica de Colombia
-391,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,República de Colombia
-392,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,"Cartagena, Colombia"
-393,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,BOL
-394,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,bo
-395,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Swiss Confederation
-396,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Suisse
-397,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,SUI
-398,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Svizzera
-399,Q83873593,2020 coronavirus outbreak in France,Q142,France,Republic of France
-400,Q83873593,2020 coronavirus outbreak in France,Q142,France,République française
-401,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,🇧🇬
-402,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,Republic of Bulgaria
-403,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,Dutch Guiana
-404,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,sr
-405,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,Surinam
-406,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,SUR
-407,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,Republic of Surinam
-408,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,Republic of Suriname
-409,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,🇸🇷
-410,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,Co-operative Republic of Guyana
-411,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,GUY
-412,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,gy
-413,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,🇬🇾
-414,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,Republic of Guyana
-415,Q87589123,2020 coronavirus pandemic in Paraguay,Q733,Paraguay,py
-416,Q87589123,2020 coronavirus pandemic in Paraguay,Q733,Paraguay,Heart of South America
-417,Q87589123,2020 coronavirus pandemic in Paraguay,Q733,Paraguay,🇵🇾
-418,Q87589123,2020 coronavirus pandemic in Paraguay,Q733,Paraguay,Republic of Paraguay
-419,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,SLO
-420,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,slo
-421,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,si
-422,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,svn
-423,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,Republic of Slovenia
-424,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,Republika Slovenija
-425,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,🇸🇮
-426,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,Slovenija
-427,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,md
-428,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,MDA
-429,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,Moldavia
-430,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,🇲🇩
-431,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,Republic of Moldova
-432,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,Republica Moldova
-433,Q87454162,2020 coronavirus outbreak in Oman,Q842,Oman,om
-434,Q87454162,2020 coronavirus outbreak in Oman,Q842,Oman,🇴🇲
-435,Q87454162,2020 coronavirus outbreak in Oman,Q842,Oman,Sultanate of Oman
-436,Q87652000,2020 coronavirus pandemic in Pakistan,Q843,Pakistan,pk
-437,Q87652000,2020 coronavirus pandemic in Pakistan,Q843,Pakistan,PAK
-438,Q87652000,2020 coronavirus pandemic in Pakistan,Q843,Pakistan,Islamic Republic of Pakistan
-439,Q87652000,2020 coronavirus pandemic in Pakistan,Q843,Pakistan,🇵🇰
-440,Q87733671,2020 coronavirus pandemic in Qatar,Q846,Qatar,🇶🇦
-441,Q87733671,2020 coronavirus pandemic in Qatar,Q846,Qatar,qa
-442,Q87733671,2020 coronavirus pandemic in Qatar,Q846,Qatar,State of Qatar
-443,Q87186117,2020 coronavirus outbreak in Saudi Arabia,Q851,Saudi Arabia,sa
-444,Q87186117,2020 coronavirus outbreak in Saudi Arabia,Q851,Saudi Arabia,KSA
-445,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,CRI
-446,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,cr
-447,Q87200954,2020 coronavirus outbreak in Slovakia,Q214,Slovakia,SVK
-448,Q87200954,2020 coronavirus outbreak in Slovakia,Q214,Slovakia,sk
-449,Q87200954,2020 coronavirus outbreak in Slovakia,Q214,Slovakia,🇸🇰
-450,Q87200954,2020 coronavirus outbreak in Slovakia,Q214,Slovakia,Slovak Republic
-451,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Belorussia
-452,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Bielorussia
-453,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,🇧🇾
-454,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Byeloruss
-455,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Republic of Belarus
-456,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,EST
-457,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,Eesti
-458,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,ee
-459,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,Estland
-460,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,ISL
-461,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,Island
-462,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,is
-463,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,🇮🇸
-464,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,Republic of Iceland
-465,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,🇪🇪
-466,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,Republic of Estonia
-467,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,LAT
-468,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,Latvija
-469,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,LVA
-470,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,lv
-471,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,Latvian Republic
-472,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,🇱🇻
-473,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,Republic of Latvia
-474,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,NIC
-475,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,NCA
-476,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,ni
-477,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,🇳🇮
-478,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,Republic of Nicaragua
-479,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,KUW
-480,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,Dawlat al-Kuwait
-481,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,kw
-482,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,🇰🇼
-483,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,State of Kuwait
-484,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,lb
-485,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,🇱🇧
-486,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,LBN
-487,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,Lebanese Republic
-488,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,Republic of Lebanon
-489,Q87662895,2020 coronavirus pandemic in the Maldives,Q826,Maldives,mv
-490,Q87662895,2020 coronavirus pandemic in the Maldives,Q826,Maldives,MDV
-491,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,ROC
-492,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Nationalist China
-493,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Formosa
-494,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Free China
-495,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Republic of China
-496,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Free area of the Republic of China
-497,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Chunghwa Minkuo
-498,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Chunghwa Minkwo
-499,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Republic of China (Taiwan)
-500,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,🇹🇼
-501,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,🇭🇷
-502,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,Republic of Croatia
-503,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,ba
-504,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,B&H
-505,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,Bosnia
-506,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,BIH
-507,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,🇧🇦
-508,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,BiH
-509,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,Bosnia & Herzegovina
-510,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,Bosnia-Herzegovina
-511,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,HON
-512,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,hn
-513,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,🇭🇳
-514,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,Honduran Republic
-515,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,Republic of Honduras
-516,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,RD
-517,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,DR
-518,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,🇩🇴
-519,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,Republica Dominicana
-520,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,República Dominicana
-521,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,Persia
-522,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,ir
-523,Q87976489,2020 coronavirus pandemic in El Salvador,Q792,El Salvador,ESA
-524,Q87976489,2020 coronavirus pandemic in El Salvador,Q792,El Salvador,sv
-525,Q87976489,2020 coronavirus pandemic in El Salvador,Q792,El Salvador,Republic of El Salvador
-526,Q87976489,2020 coronavirus pandemic in El Salvador,Q792,El Salvador,🇸🇻
-527,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,Former Yugoslav Republic of Macedonia
-528,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,FYR Macedonia
-529,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,FYROM
-530,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,🇲🇰
-531,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,MKD
-532,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,Republic of Macedonia
-533,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,Republic of North Macedonia
-534,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,Macedonia
-535,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,mk
-536,Q87887813,2020 coronavirus pandemic in Montenegro,Q236,Montenegro,me
-537,Q87887813,2020 coronavirus pandemic in Montenegro,Q236,Montenegro,MNE
-538,Q87887813,2020 coronavirus pandemic in Montenegro,Q236,Montenegro,🇲🇪
-539,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,va
-540,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,vat
-541,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Vatican
-542,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Città del Vaticano
-543,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Civitas Vaticana
-544,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Papal State
-545,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,State of Vatican City
-546,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Stato della Città del Vaticano
-547,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Status Civitatis Vaticanae
-548,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,The Vatican
-549,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,🇻🇦
-550,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Vatican City State
-551,Q87768605,2020 coronavirus pandemic in Afghanistan,Q889,Afghanistan,AFG
-552,Q87768605,2020 coronavirus pandemic in Afghanistan,Q889,Afghanistan,af
-553,Q87768605,2020 coronavirus pandemic in Afghanistan,Q889,Afghanistan,🇦🇫
-554,Q87768605,2020 coronavirus pandemic in Afghanistan,Q889,Afghanistan,Islamic Republic of Afghanistan
-555,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,SYR
-556,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,sy
-557,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,🇸🇾
-558,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,Syrian Arab Republic
-559,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,Ba'athist Syria
-560,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,tw
-561,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Chinese Taipei
-562,Q87186117,2020 coronavirus outbreak in Saudi Arabia,Q851,Saudi Arabia,🇸🇦
-563,Q87186117,2020 coronavirus outbreak in Saudi Arabia,Q851,Saudi Arabia,Kingdom of Saudi Arabia
-564,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Ceylon
-565,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Ceylan
-566,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,SRI
-567,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Srilanka
-568,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,ce
-569,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Democratic Socialist Republic of Sri Lanka
-570,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,"Lanka, Sri"
-571,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,lk
-572,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,🇱🇰
-573,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,lke
-574,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Serendib
-575,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,sri
-576,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Taprobane
-577,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,gn
-578,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,🇬🇳
-579,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,GUI
-580,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,Guinea-Conakry
-581,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,Republic of Guinea
-582,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,Republique de Guinee
-583,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,République de Guinée
-584,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,gm
-585,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,GAM
-586,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,🇬🇲
-587,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,Islamic Republic of the Gambia
-588,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,Republic of The Gambia
-589,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,The Gambia
-590,Q87250877,2020 coronavirus outbreak in Monaco,Q235,Monaco,MON
-591,Q87250877,2020 coronavirus outbreak in Monaco,Q235,Monaco,mc
-592,Q87250877,2020 coronavirus outbreak in Monaco,Q235,Monaco,🇲🇨
-593,Q87250877,2020 coronavirus outbreak in Monaco,Q235,Monaco,Principality of Monaco
-594,Q87587760,2020 coronavirus pandemic in Malta,Q233,Malta,MLT
-595,Q87587760,2020 coronavirus pandemic in Malta,Q233,Malta,mt
-596,Q87587760,2020 coronavirus pandemic in Malta,Q233,Malta,🇲🇹
-597,Q87587760,2020 coronavirus pandemic in Malta,Q233,Malta,Republic of Malta
-598,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,UKR
-599,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,UA
-600,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,ua
-601,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,🇺🇦
-602,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,Ukrainia
-603,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,Česká republika
-604,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,Česko
-605,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,ČR
-606,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,cz
-607,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,🇨🇿
-608,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,cze
-609,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,CZE
-610,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,Czechia
-611,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,CZR
-612,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Congo
-613,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,cd
-614,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,COD
-615,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,DRC
-616,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Zaire
-617,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,🇨🇩
-618,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Congo (Kinshasa)
-619,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Congo-Kinshasa
-620,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Dem. Rep. Congo
-621,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Dem. Republic of Congo
-622,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Dem. Republic of the Congo
-623,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Democratic Republic of Congo
-624,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,DR Congo
-625,Q87722485,2020 coronavirus pandemic in Azerbaijan,Q227,Azerbaijan,AZE
-626,Q87722485,2020 coronavirus pandemic in Azerbaijan,Q227,Azerbaijan,az
-627,Q87722485,2020 coronavirus pandemic in Azerbaijan,Q227,Azerbaijan,🇦🇿
-628,Q87722485,2020 coronavirus pandemic in Azerbaijan,Q227,Azerbaijan,Republic of Azerbaijan
-629,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,AND
-630,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,ad
-631,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,ߊߝߙߌߞߌ߬ ߕߋ߬ߟߋߓߋ ߖߡߊ߬ߣߊ ߘߏ
-632,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,ߖߌ߬ߣߍ߬ ߞߊ߲ߓߍ߲
-633,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,CIV
-634,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,ci
-635,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,🇨🇮
-636,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d ivoire
-637,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d' Ivoire
-638,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote D' Ivoire
-639,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d'ivoire
-640,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d'Ivoire
-641,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote D'Ivoire
-642,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d'ivoire
-643,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d'Ivoire
-644,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte D'ivoire
-645,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte D'Ivoire
-646,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d'ivore
-647,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d'Ivorie
-648,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d'lvoire
-649,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d’Ivoire
-650,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d’Ivoire
-651,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d´Ivoire
-652,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d´Ivoire
-653,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote divoire
-654,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote dIvoire
-655,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote Divoire
-656,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte Divoire
-657,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote Ivoire
-658,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote-d'Ivoire
-659,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte-d'Ivoire
-660,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Ivory coast
-661,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Republic of Cote d'Ivoire
-662,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Republic of Côte d'Ivoire
-663,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Republic of Ivory Coast
-664,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Republic of the Ivory Coast
-665,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,République de Côte d'Ivoire
-666,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,The Ivory Coast
-667,Q87766242,2020 coronavirus pandemic in Liberia,Q1014,Liberia,LBR
-668,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,ALB
-669,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,al
-670,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,🇦🇱
-671,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,Republic of Albania
-672,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,Republika e Shqipërisë
-673,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,Shqipërisë
-674,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,hr
-675,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,CRO
-676,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,HRV
-677,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,HR
-678,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,Kingdom of Thailand
-679,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,Land of Smiles
-680,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,Siam
-681,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,th
-682,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,🇹🇭
-683,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,THA
-684,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,🇨🇷
-685,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,Republic of Costa Rica
-686,Q86913546,2020 coronavirus outbreak in Indonesia,Q252,Indonesia,INA
-687,Q86913546,2020 coronavirus outbreak in Indonesia,Q252,Indonesia,ID
-688,Q86913546,2020 coronavirus outbreak in Indonesia,Q252,Indonesia,id
-689,Q86913546,2020 coronavirus outbreak in Indonesia,Q252,Indonesia,🇮🇩
-690,Q86913546,2020 coronavirus outbreak in Indonesia,Q252,Indonesia,IDN
-691,Q86913546,2020 coronavirus outbreak in Indonesia,Q252,Indonesia,Republic of Indonesia
-692,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,JAM
-693,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,JA
-694,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,Commonwealth of Jamaica
-695,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,jm
-696,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,🇯🇲
-697,Q87669612,2020 coronavirus pandemic in Guatemala,Q774,Guatemala,gt
-698,Q87669612,2020 coronavirus pandemic in Guatemala,Q774,Guatemala,GUA
-699,Q87669612,2020 coronavirus pandemic in Guatemala,Q774,Guatemala,🇬🇹
-700,Q87669612,2020 coronavirus pandemic in Guatemala,Q774,Guatemala,Republic of Guatemala
-701,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,bs
-702,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,Bahama Islands
-703,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,🇧🇸
-704,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,Commonwealth of the Bahamas
-705,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,The Bahamas
-706,Q87708331,2020 coronavirus pandemic in Antigua and Barbuda,Q781,Antigua and Barbuda,ag
-707,Q87708331,2020 coronavirus pandemic in Antigua and Barbuda,Q781,Antigua and Barbuda,ANT
-708,Q87708331,2020 coronavirus pandemic in Antigua and Barbuda,Q781,Antigua and Barbuda,🇦🇬
-709,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,ae
-710,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,🇦🇪
-711,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,Emirates
-712,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,the Emirates
-713,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,the U.A.E.
-714,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,the UAE
-715,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,the United Arab Emirates
-716,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,U.A.E.
-717,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,UAE
-718,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,VN
-719,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,Socialist Republic of Vietnam
-720,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,VIE
-721,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,Viet Nam
-722,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,🇻🇳
-723,Q87714704,2020 coronavirus pandemic in Rwanda,Q1037,Rwanda,rw
-724,Q87714704,2020 coronavirus pandemic in Rwanda,Q1037,Rwanda,Republic of Rwanda
-725,Q87714704,2020 coronavirus pandemic in Rwanda,Q1037,Rwanda,🇷🇼
-726,Q87729500,2020 coronavirus pandemic in Seychelles,Q1042,Seychelles,sc
-727,Q87729500,2020 coronavirus pandemic in Seychelles,Q1042,Seychelles,SEY
-728,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,sn
-729,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,SEN
-730,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,Republic of Senegal
-731,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,Republique du Senegal
-732,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,République du Sénégal
-733,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,Sénégal
-734,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,🇸🇳
-735,Q87477841,2020 coronavirus outbreak in Panama,Q804,Panama,pa
-736,Q87477841,2020 coronavirus outbreak in Panama,Q804,Panama,🇵🇦
-737,Q87477841,2020 coronavirus outbreak in Panama,Q804,Panama,Republic of Panama
-738,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,JO
-739,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,JOR
-740,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,Hashemite Kingdom of Jordan
-741,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,jo
-742,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,🇯🇴
-743,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,Kingdom of Jordan
-744,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,NI
-745,Q87540454,2020 coronavirus pandemic in Bangladesh,Q902,Bangladesh,BAN
-746,Q87540454,2020 coronavirus pandemic in Bangladesh,Q902,Bangladesh,bd
-747,Q87540454,2020 coronavirus pandemic in Bangladesh,Q902,Bangladesh,🇧🇩
-748,Q87715166,2020 coronavirus pandemic in Bhutan,Q917,Bhutan,bt
-749,Q87715166,2020 coronavirus pandemic in Bhutan,Q917,Bhutan,BHU
-750,Q87715166,2020 coronavirus pandemic in Bhutan,Q917,Bhutan,🇧🇹
-751,Q87715166,2020 coronavirus pandemic in Bhutan,Q917,Bhutan,Kingdom of Bhutan
-752,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,BRN
-753,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,bn
-754,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,🇧🇳
-755,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,BRU
-756,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,Brunei Darussalam
-757,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,Palestine
-758,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,PA
-759,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,Palestinian Authority
-760,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,Palestinian state
-761,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,🇵🇸
-762,Q87729500,2020 coronavirus pandemic in Seychelles,Q1042,Seychelles,Republic of Seychelles
-763,Q87729500,2020 coronavirus pandemic in Seychelles,Q1042,Seychelles,🇸🇨
-764,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,so
-765,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,SOM
-766,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,aṣ-Ṣūmāl
-767,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,Federal Republic of Somalia
-768,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,🇸🇴
-769,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,Soomaaliya
-770,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,as-Sūdān
-771,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,North Sudan
-772,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,Republic of Sudan
-773,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,Republic of the Sudan
-774,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,sd
-775,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,🇸🇩
-776,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,SUD
-777,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,the Sudan
-778,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Republic of Korea
-779,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,KOR
-780,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,ROK
-781,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,kr
-782,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Daehan Minguk
-783,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Korea Republic
-784,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,🇰🇷
-785,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Rep. Korea
-786,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Republic of Great Han
-787,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Republic of South Korea
-788,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,S. Korea
-789,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,The Republic of Great Han
-790,Q87250913,2020 coronavirus outbreak in Georgia,Q230,Georgia,GEO
-791,Q87250913,2020 coronavirus outbreak in Georgia,Q230,Georgia,Republic of Georgia
-792,Q87250913,2020 coronavirus outbreak in Georgia,Q230,Georgia,GE
-793,Q87250913,2020 coronavirus outbreak in Georgia,Q230,Georgia,🇬🇪
-794,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,kz
-795,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,KAZ
-796,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,🇰🇿
-797,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,Qazaqstan
-798,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,Republic of Kazakhstan
-799,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,"Nation of Brunei, the Abode of Peace"
-800,Q87770827,2020 coronavirus pandemic in Tanzania,Q924,Tanzania,tz
-801,Q87770827,2020 coronavirus pandemic in Tanzania,Q924,Tanzania,🇹🇿
-802,Q87770827,2020 coronavirus pandemic in Tanzania,Q924,Tanzania,United Republic of Tanganyika and Zanzibar
-803,Q87770827,2020 coronavirus pandemic in Tanzania,Q924,Tanzania,United Republic of Tanzania
-804,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,PH
-805,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,RP
-806,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,PHL
-807,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,PHI
-808,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,ph
-809,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,Philippine Islands
-810,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,🇵🇭
-811,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,Republic of the Philippines
-812,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,the Philippines
-813,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,DJI
-814,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,Gabuuti
-815,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,Jabuuti
-816,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,dj
-817,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,🇩🇯
-818,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,Jībūtī
-819,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,Republic of Djibouti
-820,Q87742064,2020 coronavirus pandemic in Equatorial Guinea,Q983,Equatorial Guinea,GEQ
-821,Q87742064,2020 coronavirus pandemic in Equatorial Guinea,Q983,Equatorial Guinea,gq
-822,Q87742064,2020 coronavirus pandemic in Equatorial Guinea,Q983,Equatorial Guinea,🇬🇶
-823,Q87742064,2020 coronavirus pandemic in Equatorial Guinea,Q983,Equatorial Guinea,Republic of Equatorial Guinea
-824,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,ga
-825,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,GAB
-826,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,🇬🇦
-827,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,Gabonese Republic
-828,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,Republique Gabonaise
-829,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,République Gabonaise
-830,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,🇦🇩
-831,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,Principality of Andorra
-832,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,Principality of the Valleys of Andorra
-833,Q87580938,2020 coronavirus pandemic in Cyprus,Q229,Republic of Cyprus,Cyprus
-834,Q87580938,2020 coronavirus pandemic in Cyprus,Q229,Republic of Cyprus,cy
-835,Q87580938,2020 coronavirus pandemic in Cyprus,Q229,Republic of Cyprus,🇨🇾
-836,Q87580938,2020 coronavirus pandemic in Cyprus,Q229,Republic of Cyprus,Greek Cypriot State
-837,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,SWZ
-838,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,sz
-839,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,Swaziland
-840,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,eSwatini
-841,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,Kingdom of Eswatini
-842,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,Kingdom of Swaziland
-843,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,🇸🇿
-844,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,Umbuso weSwatini
-845,Q87766242,2020 coronavirus pandemic in Liberia,Q1014,Liberia,lr
-846,Q87766242,2020 coronavirus pandemic in Liberia,Q1014,Liberia,🇱🇷
-847,Q87766242,2020 coronavirus pandemic in Liberia,Q1014,Liberia,Republic of Liberia
-848,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,mu
-849,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,MRI
-850,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,Maurice
-851,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,Moris
-852,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,🇲🇺
-853,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,Republic of Mauritius
-854,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,MTN
-855,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,mr
-856,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Agawej
-857,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Gannaar
-858,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Gànnaar
-859,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Islamic Republic of Mauritania
-860,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Moritani
-861,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,🇲🇷
-862,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Muritanya
-863,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Murutaane
-864,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,CAF
-865,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,CAR
-866,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,Centrafrique
-867,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,cf
-868,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,🇨🇫
-869,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,Ködörösêse tî Bêafrîka
-870,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,Republique centrafricaine
-871,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,République centrafricaine
-872,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,TOG
-873,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,Republique Togolaise
-874,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,République Togolaise
-875,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,tg
-876,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,🇹🇬
-877,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,Togolese Republic
-878,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,al-Jumhūriyyah at-Tūnisiyyah
-879,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,Republic of Tunisia
-880,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,tn
-881,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,🇹🇳
-882,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,TUN
-883,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,Tūnis
-884,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,Tunisian Republic
-885,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,KOS
-886,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,XK
-887,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,KV
-888,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,XKX
-889,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,Republic of Kosovo
-890,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,🇽🇰
-891,Q87662895,2020 coronavirus pandemic in the Maldives,Q826,Maldives,🇲🇻
-892,Q87662895,2020 coronavirus pandemic in the Maldives,Q826,Maldives,Republic of Maldives
-893,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,MYS
-894,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,my
-895,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,MAS
-896,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,Federation of Malaysia
-897,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,Malaysia Federation
-898,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,🇲🇾
-899,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,NPL
-900,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,🇳🇵
-901,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,NP
-902,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,NEP
-903,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,Federal Democratic Republic of Nepal
-904,Q87976629,2020 coronavirus pandemic in Zambia,Q953,Zambia,ZAM
-905,Q87976629,2020 coronavirus pandemic in Zambia,Q953,Zambia,Republic of Zambia
-906,Q87976629,2020 coronavirus pandemic in Zambia,Q953,Zambia,zm
-907,Q87976629,2020 coronavirus pandemic in Zambia,Q953,Zambia,🇿🇲
-908,Q87665364,2020 coronavirus pandemic in Burkina Faso,Q965,Burkina Faso,bf
-909,Q87665364,2020 coronavirus pandemic in Burkina Faso,Q965,Burkina Faso,🇧🇫
-910,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,CGO
-911,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,cg
-912,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,🇨🇬
-913,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Congo (Brazzaville)
-914,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Congo Republic
-915,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Congo-Brazzaville
-916,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Rep. Congo
-917,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Republic of Congo
-918,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Republique du Congo
-919,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,République du Congo
-920,Q87123561,2020 coronavirus outbreak in San Marino,Q238,San Marino,SMR
-921,Q87123561,2020 coronavirus outbreak in San Marino,Q238,San Marino,sm
-922,Q87123561,2020 coronavirus outbreak in San Marino,Q238,San Marino,Most Serene Republic of San Marino
-923,Q87123561,2020 coronavirus outbreak in San Marino,Q238,San Marino,🇸🇲
-924,Q87590993,2020 coronavirus pandemic in Cuba,Q241,Cuba,CUB
-925,Q87590993,2020 coronavirus pandemic in Cuba,Q241,Cuba,cu
-926,Q87590993,2020 coronavirus pandemic in Cuba,Q241,Cuba,🇨🇺
-927,Q87590993,2020 coronavirus pandemic in Cuba,Q241,Cuba,Republic of Cuba
-928,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,ARU
-929,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,America/Aruba
-930,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,aw
-931,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,🇦🇼
-932,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,Island of Aruba
-933,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,ISO 3166-1:AW
-934,Q87729501,2020 coronavirus pandemic in Namibia,Q1030,Namibia,na
-935,Q87729501,2020 coronavirus pandemic in Namibia,Q1030,Namibia,NAM
-936,Q87729501,2020 coronavirus pandemic in Namibia,Q1030,Namibia,🇳🇦
-937,Q87729501,2020 coronavirus pandemic in Namibia,Q1030,Namibia,Republic of Namibia
-938,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,MAR
-939,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Marocco
-940,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,ma
-941,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Maroc
-942,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,al-Maġrib
-943,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Arab Maghreb
-944,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Kingdom of Morocco
-945,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Lmaġrib
-946,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,🇲🇦
-947,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,NG
-948,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,NGR
-949,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,NGA
-950,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,Federal Republic of Nigeria
-951,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,FRN
-952,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,Naija
-953,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,🇳🇬
-954,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,NCY
-955,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,TRNC
-956,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,North Cyprus
-957,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,North Cyprus Turkish Republic
-958,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Northern Cyprus
-959,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Republic of Northern Cyprus
-960,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,The Turkish Republic of Northern Cyprus
-961,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Cypriot constituent state
-962,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Cypriot state
-963,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Cyprus
-964,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Federative State of North Cyprus
-965,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish occupied Cyprus
-966,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Republic of Cyprus
-967,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Republic of North Cyprus
-968,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,CW
-969,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curacao
-970,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Country of Curaçao
-971,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curacau
-972,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curaçoa
-973,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curazao
-974,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curaςao
-975,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curocao
-976,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,CUW
-977,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,🇨🇼
-978,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Island Territory of Curaçao
-979,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,ISO 3166-1:CW
-980,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Korsou
-981,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Kòrsou
-982,Q87250930,2020 coronavirus outbreak in Cameroon,Q29406548,Cameroun,
+4,Q87191204,2020 coronavirus pandemic in Chile,Q298,Chile,CHI
+5,Q87191204,2020 coronavirus pandemic in Chile,Q298,Chile,cl
+6,Q87191204,2020 coronavirus pandemic in Chile,Q298,Chile,🇨🇱
+7,Q87191204,2020 coronavirus pandemic in Chile,Q298,Chile,Republic of Chile
+8,Q87191204,2020 coronavirus pandemic in Chile,Q298,Chile,Republica de Chile
+9,Q87191204,2020 coronavirus pandemic in Chile,Q298,Chile,República de Chile
+10,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,SG
+11,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,Garden City
+12,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,SGP
+13,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,sg
+14,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,Singapore City
+15,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,Republic of Singapore
+16,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,🇸🇬
+17,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,SA
+18,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,za
+19,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,Republic of South Africa
+20,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,RSA
+21,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,🇿🇦
+22,Q87243915,2020 coronavirus outbreak in South Africa,Q258,South Africa,zaf
+23,Q87202921,2020 coronavirus outbreak in Algeria,Q262,Algeria,ALG
+24,Q87202921,2020 coronavirus outbreak in Algeria,Q262,Algeria,dz
+25,Q87202921,2020 coronavirus outbreak in Algeria,Q262,Algeria,🇩🇿
+26,Q87202921,2020 coronavirus outbreak in Algeria,Q262,Algeria,People’s Democratic Republic of Algeria
+27,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,CA
+28,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,ca
+29,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,CDN
+30,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,can
+31,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,CAN
+32,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,British North America
+33,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,🇨🇦
+34,Q83873580,2020 coronavirus pandemic in Canada,Q16,Canada,Dominion of Canada
+35,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,JAP
+36,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,JP
+37,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,jp
+38,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,JA
+39,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,Land of the Rising Sun
+40,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,Nippon
+41,Q83872291,2019–20 coronavirus outbreak in Japan,Q17,Japan,JPN
+42,Q83873387,2019–20 coronavirus outbreak in Singapore,Q334,Singapore,Lion City
+43,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,FL
+44,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,li
+45,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,LI
+46,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,LIE
+47,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,🇱🇮
+48,Q87250819,2020 coronavirus pandemic in Liechtenstein,Q347,Liechtenstein,Principality of Liechtenstein
+49,Q87070999,2020 coronavirus outbreak in Bahrain,Q398,Bahrain,BAH
+50,Q87070999,2020 coronavirus outbreak in Bahrain,Q398,Bahrain,bh
+51,Q87070999,2020 coronavirus outbreak in Bahrain,Q398,Bahrain,🇧🇭
+52,Q87070999,2020 coronavirus outbreak in Bahrain,Q398,Bahrain,Kingdom of Bahrain
+53,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,NO
+54,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Norge
+55,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,no
+56,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,NOR
+57,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Kingdom of Norway
+58,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,🇳🇴
+59,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Noreg
+60,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Norvège
+61,Q86886544,2020 coronavirus pandemic in Norway,Q20,Norway,Norwegen
+62,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,ie
+63,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,🇮🇪
+64,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,ireland
+65,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,"Ireland, Republic of"
+66,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Republic of Ireland
+67,Q83873548,2020 coronavirus pandemic in Australia,Q408,Australia,AU
+68,Q83873548,2020 coronavirus pandemic in Australia,Q408,Australia,au
+69,Q83873548,2020 coronavirus pandemic in Australia,Q408,Australia,AUS
+70,Q83873548,2020 coronavirus pandemic in Australia,Q408,Australia,Ꜷ
+71,Q83873548,2020 coronavirus pandemic in Australia,Q408,Australia,British Colony of Australia
+72,Q83873548,2020 coronavirus pandemic in Australia,Q408,Australia,Commonwealth of Australia
+73,Q83873548,2020 coronavirus pandemic in Australia,Q408,Australia,Straya
+74,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,AR
+75,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,ARG
+76,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,ar
+77,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,🇦🇷
+78,Q87235137,2020 coronavirus outbreak in Argentina,Q414,Argentina,Argentine Republic
+79,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,pe
+80,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,🇵🇪
+81,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,Republic of Peru
+82,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,Republica del Peru
+83,Q87587763,2020 coronavirus pandemic in Peru,Q419,Peru,República del Perú
+84,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,kp
+85,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,PRK
+86,Q87648634,2020 coronavirus pandemic in Armenia,Q399,Armenia,ARM
+87,Q87648634,2020 coronavirus pandemic in Armenia,Q399,Armenia,🇦🇲
+88,Q87648634,2020 coronavirus pandemic in Armenia,Q399,Armenia,Republic of Armenia
+89,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,SRB
+90,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,rs
+91,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,Republic of Serbia
+92,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,Republika Srbija
+93,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,🇷🇸
+94,Q87193778,2020 coronavirus outbreak in Serbia,Q403,Serbia,Srbija
+95,Q87119811,2020 coronavirus pandemic in Hungary,Q28,Hungary,HUN
+96,Q87119811,2020 coronavirus pandemic in Hungary,Q28,Hungary,hu
+97,Q87119811,2020 coronavirus pandemic in Hungary,Q28,Hungary,🇭🇺
+98,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,the United States
+99,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,the United States of America
+100,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,the US
+101,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,the USA
+102,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,U.S.
+103,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,U.S.A.
+104,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,US
+105,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,US of A
+106,Q87836826,COVID-19 pandemic in East Timor,Q574,East Timor,TLS
+107,Q87836826,COVID-19 pandemic in East Timor,Q574,East Timor,Democratic Republic of East Timor
+108,Q87836826,COVID-19 pandemic in East Timor,Q574,East Timor,Democratic Republic of Timor-Leste
+109,Q87836826,COVID-19 pandemic in East Timor,Q574,East Timor,Timor Leste
+110,Q87836826,COVID-19 pandemic in East Timor,Q574,East Timor,Timor-Leste
+111,Q87836826,COVID-19 pandemic in East Timor,Q574,East Timor,tl
+112,Q87836826,COVID-19 pandemic in East Timor,Q574,East Timor,🇹🇱
+113,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,Tchad
+114,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,GUM
+115,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,CHA
+116,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,Ǧumhūriyyat Tšād
+117,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,Republic of Chad
+118,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,Republique du Tchad
+119,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,République du Tchad
+120,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,td
+121,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,🇹🇩
+122,Q88082670,2020 coronavirus pandemic in Chad,Q657,Chad,جمهورية تشاد
+123,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,Aotearoa
+124,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,Dominion of New Zealand
+125,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,nz
+126,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,NZ
+127,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,🇳🇿
+128,Q87250803,2020 coronavirus outbreak in New Zealand,Q664,New Zealand,NZL
+129,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,Dem. Rep. Korea
+130,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,Democratic People's Republic of Korea
+131,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,DPRK
+132,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,🇰🇵
+133,Q86675924,2019–20 coronavirus outbreak in North Korea,Q423,North Korea,N. Korea
+134,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Camboya
+135,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Kamboja
+136,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Campuchia
+137,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Kambodzha
+138,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Kampuchea
+139,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,kh
+140,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,🇰🇭
+141,Q83888864,2019–20 coronavirus outbreak in Cambodia,Q424,Cambodia,Kingdom of Cambodia
+142,Q84055514,2020 coronavirus pandemic in India,Q668,India,IND
+143,Q84055514,2020 coronavirus pandemic in India,Q668,India,in
+144,Q84055514,2020 coronavirus pandemic in India,Q668,India,Bharat
+145,Q84055514,2020 coronavirus pandemic in India,Q668,India,Bharatvarsh
+146,Q84055514,2020 coronavirus pandemic in India,Q668,India,Hindustan
+147,Q84055514,2020 coronavirus pandemic in India,Q668,India,IN
+148,Q84055514,2020 coronavirus pandemic in India,Q668,India,🇮🇳
+149,Q84055514,2020 coronavirus pandemic in India,Q668,India,Republic of India
+150,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Southern Ireland
+151,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Eire
+152,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Éire
+153,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,Hibernia
+154,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,IRL
+155,Q87186365,2020 coronavirus outbreak in the Republic of Ireland,Q27,Ireland,IE
+156,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,America
+157,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,United States
+158,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,USA
+159,Q88137634,2020 coronavirus pandemic in Papua New Guinea,Q691,Papua New Guinea,PNG
+160,Q88137634,2020 coronavirus pandemic in Papua New Guinea,Q691,Papua New Guinea,pg
+161,Q88137634,2020 coronavirus pandemic in Papua New Guinea,Q691,Papua New Guinea,Independent State of Papua New Guinea
+162,Q88137634,2020 coronavirus pandemic in Papua New Guinea,Q691,Papua New Guinea,🇵🇬
+163,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,MGL
+164,Q87250860,2020 coronavirus pandemic in Luxembourg,Q32,Luxembourg,Grand Duchy of Luxembourg
+165,Q87250860,2020 coronavirus pandemic in Luxembourg,Q32,Luxembourg,🇱🇺
+166,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,ec
+167,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,🇪🇨
+168,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,Republic of Ecuador
+169,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,Republic of the Equator
+170,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,The Ecuadorian State
+171,Q84166704,2020 coronavirus pandemic in Spain,Q29,Spain,ESP
+172,Q84166704,2020 coronavirus pandemic in Spain,Q29,Spain,España
+173,Q84166704,2020 coronavirus pandemic in Spain,Q29,Spain,ES
+174,Q84166704,2020 coronavirus pandemic in Spain,Q29,Spain,Kingdom of Spain
+175,Q84166704,2020 coronavirus pandemic in Spain,Q29,Spain,🇪🇸
+176,Q88208091,2020 coronavirus pandemic in Galicia,Q29,Spain,ESP
+177,Q88208091,2020 coronavirus pandemic in Galicia,Q29,Spain,España
+178,Q88208091,2020 coronavirus pandemic in Galicia,Q29,Spain,ES
+179,Q88208091,2020 coronavirus pandemic in Galicia,Q29,Spain,Kingdom of Spain
+180,Q88208091,2020 coronavirus pandemic in Galicia,Q29,Spain,🇪🇸
+181,Q88082622,2020 coronavirus pandemic in the Canary Islands,Q29,Spain,ESP
+182,Q88082622,2020 coronavirus pandemic in the Canary Islands,Q29,Spain,España
+183,Q88082622,2020 coronavirus pandemic in the Canary Islands,Q29,Spain,ES
+184,Q88082622,2020 coronavirus pandemic in the Canary Islands,Q29,Spain,Kingdom of Spain
+185,Q88082622,2020 coronavirus pandemic in the Canary Islands,Q29,Spain,🇪🇸
+186,Q84081576,2020 coronavirus pandemic in Sweden,Q34,Sweden,se
+187,Q84081576,2020 coronavirus pandemic in Sweden,Q34,Sweden,SWE
+188,Q84081576,2020 coronavirus pandemic in Sweden,Q34,Sweden,SE
+189,Q84081576,2020 coronavirus pandemic in Sweden,Q34,Sweden,Kingdom of Sweden
+190,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Finlandia
+191,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Suomi
+192,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,FIN
+193,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Finnland
+194,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,fi
+195,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,🇫🇮
+196,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Finlande
+197,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Finnia
+198,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Land of Thousand Lakes
+199,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Republic of Finland
+200,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Republiken Finland
+201,Q84055415,2019–20 coronavirus outbreak in Finland,Q33,Finland,Suomen tasavalta
+202,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,MNG
+203,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,🇲🇳
+204,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,mn
+205,Q87708832,2020 coronavirus pandemic in Mongolia,Q711,Mongolia,Mongol uls
+206,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,fj
+207,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,FIJ
+208,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,🇫🇯
+209,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,Republic of Fiji
+210,Q87975745,2020 coronavirus pandemic in Fiji,Q712,Fiji,Republic of the Fiji Islands
+211,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,Bolivarian Republic of Venezuela
+212,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,BR Venezuela
+213,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,Estados Unidos de Venezuela
+214,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,VE
+215,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,🇻🇪
+216,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,VEN
+217,Q87652010,2020 coronavirus pandemic in Venezuela,Q717,Venezuela,Vzla
+218,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,Dutch Guiana
+219,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,sr
+220,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,COL
+221,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,🇨🇴
+222,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,Republic of Colombia
+223,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,Republica de Colombia
+224,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,República de Colombia
+225,Q87483673,2020 coronavirus pandemic in Colombia,Q739,Colombia,"Cartagena, Colombia"
+226,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,BOL
+227,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,bo
+228,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,🇧🇴
+229,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,bol
+230,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,Plurinational State of Bolivia
+231,Q87480220,2020 coronavirus outbreak in Bolivia,Q750,Bolivia,Republic of Bolivia
+232,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,Danmark
+233,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,TAN
+234,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,DEN
+235,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,DK
+236,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,DEK
+237,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,dk
+238,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,DNK
+239,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,🇩🇰
+240,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,Denmark proper
+241,Q86597685,2020 coronavirus outbreak in Denmark,Q35,Denmark,metropolitan Denmark
+242,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,Danmark
+243,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,TAN
+244,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,DEN
+245,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,DK
+246,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,DEK
+247,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,dk
+248,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,DNK
+249,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,🇩🇰
+250,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,Denmark proper
+251,Q87906931,2020 coronavirus pandemic in the Faroe Islands,Q35,Denmark,metropolitan Denmark
+252,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,PL
+253,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,POL
+254,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,Polska
+255,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,🇵🇱
+256,Q87250695,2020 coronavirus pandemic in Poland,Q36,Poland,Republic of Poland
+257,Q87694131,2020 coronavirus pandemic in Trinidad and Tobago,Q754,Trinidad and Tobago,TTO
+258,Q87694131,2020 coronavirus pandemic in Trinidad and Tobago,Q754,Trinidad and Tobago,tt
+259,Q87694131,2020 coronavirus pandemic in Trinidad and Tobago,Q754,Trinidad and Tobago,Republic of Trinidad and Tobago
+260,Q87694131,2020 coronavirus pandemic in Trinidad and Tobago,Q754,Trinidad and Tobago,🇹🇹
+261,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,St. Vincent
+262,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,St Vincent
+263,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,Saint Vincent
+264,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,St Vincent and the Grenadines
+265,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,St. Vincent and the Grenadines
+266,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,vc
+267,Q87687648,2020 coronavirus pandemic in Saint Vincent and the Grenadines,Q757,Saint Vincent and the Grenadines,🇻🇨
+268,Q87707727,2020 coronavirus pandemic in Saint Lucia,Q760,Saint Lucia,St Lucia
+269,Q87707727,2020 coronavirus pandemic in Saint Lucia,Q760,Saint Lucia,St. Lucia
+270,Q87707727,2020 coronavirus pandemic in Saint Lucia,Q760,Saint Lucia,lc
+271,Q87707727,2020 coronavirus pandemic in Saint Lucia,Q760,Saint Lucia,🇱🇨
+272,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,JAM
+273,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,JA
+274,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,Commonwealth of Jamaica
+275,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,jm
+276,Q87610822,2020 coronavirus pandemic in Jamaica,Q766,Jamaica,🇯🇲
+277,Q87669612,2020 coronavirus pandemic in Guatemala,Q774,Guatemala,gt
+278,Q87669612,2020 coronavirus pandemic in Guatemala,Q774,Guatemala,GUA
+279,Q87669612,2020 coronavirus pandemic in Guatemala,Q774,Guatemala,🇬🇹
+280,Q87669612,2020 coronavirus pandemic in Guatemala,Q774,Guatemala,Republic of Guatemala
+281,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,bs
+282,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,Bahama Islands
+283,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,🇧🇸
+284,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,Commonwealth of the Bahamas
+285,Q87755488,2020 coronavirus pandemic in the Bahamas,Q778,Bahamas,The Bahamas
+286,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,HON
+287,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,hn
+288,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,🇭🇳
+289,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,Honduran Republic
+290,Q87589392,2020 coronavirus pandemic in Honduras,Q783,Honduras,Republic of Honduras
+291,Q87708331,2020 coronavirus pandemic in Antigua and Barbuda,Q781,Antigua and Barbuda,ag
+292,Q87708331,2020 coronavirus pandemic in Antigua and Barbuda,Q781,Antigua and Barbuda,ANT
+293,Q87708331,2020 coronavirus pandemic in Antigua and Barbuda,Q781,Antigua and Barbuda,🇦🇬
+294,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,Surinam
+295,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,SUR
+296,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,Republic of Surinam
+297,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,Republic of Suriname
+298,Q87664046,2020 coronavirus pandemic in Suriname,Q730,Suriname,🇸🇷
+299,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,Co-operative Republic of Guyana
+300,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,GUY
+301,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,gy
+302,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,🇬🇾
+303,Q87659698,2020 coronavirus pandemic in Guyana,Q734,Guyana,Republic of Guyana
+304,Q87589123,2020 coronavirus pandemic in Paraguay,Q733,Paraguay,py
+305,Q87589123,2020 coronavirus pandemic in Paraguay,Q733,Paraguay,Heart of South America
+306,Q87589123,2020 coronavirus pandemic in Paraguay,Q733,Paraguay,🇵🇾
+307,Q87589123,2020 coronavirus pandemic in Paraguay,Q733,Paraguay,Republic of Paraguay
+308,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,ECU
+309,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,EC
+310,Q87250713,2020 coronavirus outbreak in Ecuador,Q736,Ecuador,ecu
+311,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,Persia
+312,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,ir
+313,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,🇮🇷
+314,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,Islamic Rep. Iran
+315,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,Islamic Republic of Iran
+316,Q85876114,2020 coronavirus outbreak in Iran,Q794,Iran,Republic of Iran
+317,Q87976489,2020 coronavirus pandemic in El Salvador,Q792,El Salvador,ESA
+318,Q87976489,2020 coronavirus pandemic in El Salvador,Q792,El Salvador,sv
+319,Q87976489,2020 coronavirus pandemic in El Salvador,Q792,El Salvador,Republic of El Salvador
+320,Q87976489,2020 coronavirus pandemic in El Salvador,Q792,El Salvador,🇸🇻
+321,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,IRQ
+322,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,al-‘Irāq
+323,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,iq
+324,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,🇮🇶
+325,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,Jumhūriyyat al-‘Irāq
+326,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,Komar-i ‘Êraq
+327,Q86733728,2020 coronavirus outbreak in Iraq,Q796,Iraq,Republic of Iraq
+328,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,CRC
+329,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,LTU
+330,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,lt
+331,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,Lietuva
+332,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,🇱🇹
+333,Q87250838,2020 coronavirus outbreak in Lithuania,Q37,Lithuania,Republic of Lithuania
+334,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,U. S. A.
+335,Q83873577,2020 COVID-19 pandemic in the United States,Q30,United States of America,U. S.
+336,Q84446340,2020 coronavirus pandemic in Belgium,Q31,Belgium,be
+337,Q84446340,2020 coronavirus pandemic in Belgium,Q31,Belgium,🇧🇪
+338,Q84446340,2020 coronavirus pandemic in Belgium,Q31,Belgium,BEL
+339,Q84446340,2020 coronavirus pandemic in Belgium,Q31,Belgium,Kingdom of Belgium
+340,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,RD
+341,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,DR
+342,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,🇩🇴
+343,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,Republica Dominicana
+344,Q87563855,2020 coronavirus pandemic in the Dominican Republic,Q786,Dominican Republic,República Dominicana
+345,Q88356648,2020 coronavirus pandemic in Dominica,Q784,Dominica,dm
+346,Q88356648,2020 coronavirus pandemic in Dominica,Q784,Dominica,DMA
+347,Q88356648,2020 coronavirus pandemic in Dominica,Q784,Dominica,DOM
+348,Q88356648,2020 coronavirus pandemic in Dominica,Q784,Dominica,Commonwealth of Dominica
+349,Q88356648,2020 coronavirus pandemic in Dominica,Q784,Dominica,🇩🇲
+350,Q88356648,2020 coronavirus pandemic in Dominica,Q784,Dominica,The Commonwealth of Dominica
+351,Q88082693,2020 coronavirus pandemic in Haiti,Q790,Haiti,HT
+352,Q88082693,2020 coronavirus pandemic in Haiti,Q790,Haiti,Hayti
+353,Q88082693,2020 coronavirus pandemic in Haiti,Q790,Haiti,ht
+354,Q88082693,2020 coronavirus pandemic in Haiti,Q790,Haiti,HAI
+355,Q88082693,2020 coronavirus pandemic in Haiti,Q790,Haiti,Ayiti
+356,Q88082693,2020 coronavirus pandemic in Haiti,Q790,Haiti,Haitian Republic
+357,Q88082693,2020 coronavirus pandemic in Haiti,Q790,Haiti,🇭🇹
+358,Q88082693,2020 coronavirus pandemic in Haiti,Q790,Haiti,Republic of Haiti
+359,Q88082693,2020 coronavirus pandemic in Haiti,Q790,Haiti,République d'Haïti
+360,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,CRI
+361,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,cr
+362,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,🇨🇷
+363,Q87477462,2020 coronavirus outbreak in Costa Rica,Q800,Costa Rica,Republic of Costa Rica
+364,Q87902950,2020 coronavirus pandemic in Kyrgyzstan,Q813,Kyrgyzstan,🇰🇬
+365,Q87902950,2020 coronavirus pandemic in Kyrgyzstan,Q813,Kyrgyzstan,Kirgizia
+366,Q87902950,2020 coronavirus pandemic in Kyrgyzstan,Q813,Kyrgyzstan,Kyrgyz Republic
+367,Q88521330,2020 coronavirus pandemic in Laos,Q819,Laos,la
+368,Q88521330,2020 coronavirus pandemic in Laos,Q819,Laos,🇱🇦
+369,Q88521330,2020 coronavirus pandemic in Laos,Q819,Laos,LAO
+370,Q88521330,2020 coronavirus pandemic in Laos,Q819,Laos,Lao PDR
+371,Q88521330,2020 coronavirus pandemic in Laos,Q819,Laos,Lao People's Democratic Republic
+372,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,KUW
+373,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,Dawlat al-Kuwait
+374,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,kw
+375,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,🇰🇼
+376,Q87250691,2020 coronavirus outbreak in Kuwait,Q817,Kuwait,State of Kuwait
+377,Q87477841,2020 coronavirus outbreak in Panama,Q804,Panama,pa
+378,Q87477841,2020 coronavirus outbreak in Panama,Q804,Panama,🇵🇦
+379,Q87477841,2020 coronavirus outbreak in Panama,Q804,Panama,Republic of Panama
+380,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,JO
+381,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,JOR
+382,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,Hashemite Kingdom of Jordan
+383,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,jo
+384,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,🇯🇴
+385,Q87589148,2020 coronavirus pandemic in Jordan,Q810,Jordan,Kingdom of Jordan
+386,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,NI
+387,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,NIC
+388,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,NCA
+389,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,ni
+390,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,🇳🇮
+391,Q87976701,2020 coronavirus pandemic in Nicaragua,Q811,Nicaragua,Republic of Nicaragua
+392,Q87902950,2020 coronavirus pandemic in Kyrgyzstan,Q813,Kyrgyzstan,kg
+393,Q87902950,2020 coronavirus pandemic in Kyrgyzstan,Q813,Kyrgyzstan,KGZ
+394,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,ITA
+395,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,it
+396,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,IT
+397,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,🇮🇹
+398,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,Italia
+399,Q84104992,2020 coronavirus pandemic in Italy,Q38,Italy,Italian Republic
+400,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Swiss
+401,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,CH
+402,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,CHE
+403,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Schweiz
+404,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,NPL
+405,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,🇳🇵
+406,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,NP
+407,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,NEP
+408,Q83873573,2019–20 coronavirus outbreak in Nepal,Q837,Nepal,Federal Democratic Republic of Nepal
+409,Q87454162,2020 coronavirus outbreak in Oman,Q842,Oman,om
+410,Q87454162,2020 coronavirus outbreak in Oman,Q842,Oman,🇴🇲
+411,Q87454162,2020 coronavirus outbreak in Oman,Q842,Oman,Sultanate of Oman
+412,Q87652000,2020 coronavirus pandemic in Pakistan,Q843,Pakistan,pk
+413,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,MYS
+414,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,my
+415,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,MAS
+416,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,Federation of Malaysia
+417,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,Malaysia Federation
+418,Q83873556,2019–20 coronavirus outbreak in Malaysia,Q833,Malaysia,🇲🇾
+419,Q88082727,2020 coronavirus pandemic in Klang Valley,Q833,Malaysia,MYS
+420,Q88082727,2020 coronavirus pandemic in Klang Valley,Q833,Malaysia,my
+421,Q88082727,2020 coronavirus pandemic in Klang Valley,Q833,Malaysia,MAS
+422,Q88082727,2020 coronavirus pandemic in Klang Valley,Q833,Malaysia,Federation of Malaysia
+423,Q88082727,2020 coronavirus pandemic in Klang Valley,Q833,Malaysia,Malaysia Federation
+424,Q88082727,2020 coronavirus pandemic in Klang Valley,Q833,Malaysia,🇲🇾
+425,Q88460663,2020 coronavirus pandemic in Myanmar,Q836,Myanmar,MM
+426,Q88460663,2020 coronavirus pandemic in Myanmar,Q836,Myanmar,Burma
+427,Q88460663,2020 coronavirus pandemic in Myanmar,Q836,Myanmar,BUR
+428,Q88460663,2020 coronavirus pandemic in Myanmar,Q836,Myanmar,Union of Burma
+429,Q88460663,2020 coronavirus pandemic in Myanmar,Q836,Myanmar,🇲🇲
+430,Q88460663,2020 coronavirus pandemic in Myanmar,Q836,Myanmar,MYA
+431,Q88460663,2020 coronavirus pandemic in Myanmar,Q836,Myanmar,Republic of the Union of Myanmar
+432,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Swiss Confederation
+433,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Suisse
+434,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,SUI
+435,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,lb
+436,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,🇱🇧
+437,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,LBN
+438,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,Lebanese Republic
+439,Q87245450,2020 coronavirus outbreak in Lebanon,Q822,Lebanon,Republic of Lebanon
+440,Q87662895,2020 coronavirus pandemic in the Maldives,Q826,Maldives,mv
+441,Q87662895,2020 coronavirus pandemic in the Maldives,Q826,Maldives,MDV
+442,Q87662895,2020 coronavirus pandemic in the Maldives,Q826,Maldives,🇲🇻
+443,Q87662895,2020 coronavirus pandemic in the Maldives,Q826,Maldives,Republic of Maldives
+444,Q86717788,2020 coronavirus pandemic in Switzerland,Q39,Switzerland,Svizzera
+445,Q87473205,2020 coronavirus outbreak in Turkey,Q43,Turkey,Republic of Turkey
+446,Q87473205,2020 coronavirus outbreak in Turkey,Q43,Turkey,tr
+447,Q87473205,2020 coronavirus outbreak in Turkey,Q43,Turkey,🇹🇷
+448,Q87473205,2020 coronavirus outbreak in Turkey,Q43,Turkey,TUR
+449,Q86948603,2020 coronavirus pandemic in Portugal,Q45,Portugal,Portuguese Republic
+450,Q86948603,2020 coronavirus pandemic in Portugal,Q45,Portugal,pt
+451,Q86948603,2020 coronavirus pandemic in Portugal,Q45,Portugal,PT
+452,Q86948603,2020 coronavirus pandemic in Portugal,Q45,Portugal,🇵🇹
+453,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,NL
+454,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,Holland
+455,Q87250860,2020 coronavirus pandemic in Luxembourg,Q32,Luxembourg,LU
+456,Q87250860,2020 coronavirus pandemic in Luxembourg,Q32,Luxembourg,LUX
+457,Q87250860,2020 coronavirus pandemic in Luxembourg,Q32,Luxembourg,Luxemburg
+458,Q87250860,2020 coronavirus pandemic in Luxembourg,Q32,Luxembourg,lu
+459,Q87652000,2020 coronavirus pandemic in Pakistan,Q843,Pakistan,PAK
+460,Q87652000,2020 coronavirus pandemic in Pakistan,Q843,Pakistan,Islamic Republic of Pakistan
+461,Q87652000,2020 coronavirus pandemic in Pakistan,Q843,Pakistan,🇵🇰
+462,Q87733671,2020 coronavirus pandemic in Qatar,Q846,Qatar,🇶🇦
+463,Q87733671,2020 coronavirus pandemic in Qatar,Q846,Qatar,qa
+464,Q87733671,2020 coronavirus pandemic in Qatar,Q846,Qatar,State of Qatar
+465,Q87186117,2020 coronavirus outbreak in Saudi Arabia,Q851,Saudi Arabia,sa
+466,Q87186117,2020 coronavirus outbreak in Saudi Arabia,Q851,Saudi Arabia,KSA
+467,Q87186117,2020 coronavirus outbreak in Saudi Arabia,Q851,Saudi Arabia,🇸🇦
+468,Q87186117,2020 coronavirus outbreak in Saudi Arabia,Q851,Saudi Arabia,Kingdom of Saudi Arabia
+469,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,Kingdom of Thailand
+470,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,Land of Smiles
+471,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,Siam
+472,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,th
+473,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,🇹🇭
+474,Q83873566,2019–20 coronavirus outbreak in Thailand,Q869,Thailand,THA
+475,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,ae
+476,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,🇦🇪
+477,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,Emirates
+478,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,the Emirates
+479,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,the U.A.E.
+480,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,the UAE
+481,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,the United Arab Emirates
+482,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,U.A.E.
+483,Q84030045,2019–20 coronavirus outbreak in the United Arab Emirates,Q878,United Arab Emirates,UAE
+484,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Nationalist China
+485,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Formosa
+486,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Free China
+487,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Republic of China
+488,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Free area of the Republic of China
+489,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Chunghwa Minkuo
+490,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Chunghwa Minkwo
+491,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Republic of China (Taiwan)
+492,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,🇹🇼
+493,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,Nederland
+494,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,NED
+495,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,nl
+496,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,the Netherlands
+497,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,Netherlands (after 1945)
+498,Q86756826,2020 coronavirus outbreak in the Netherlands,Q55,Netherlands,🇳🇱
+499,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,VN
+500,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,Socialist Republic of Vietnam
+501,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,VIE
+502,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,Viet Nam
+503,Q83873057,2019–20 coronavirus outbreak in Vietnam,Q881,Vietnam,🇻🇳
+504,Q86847911,2020 coronavirus pandemic in Austria,Q40,Austria,AT
+505,Q86847911,2020 coronavirus pandemic in Austria,Q40,Austria,AUT
+506,Q86847911,2020 coronavirus pandemic in Austria,Q40,Austria,at
+507,Q86847911,2020 coronavirus pandemic in Austria,Q40,Austria,Republic of Austria
+508,Q86847911,2020 coronavirus pandemic in Austria,Q40,Austria,Republik Österreich
+509,Q86847911,2020 coronavirus pandemic in Austria,Q40,Austria,Österreich
+510,Q86847911,2020 coronavirus pandemic in Austria,Q40,Austria,🇦🇹
+511,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Republic of Korea
+512,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,KOR
+513,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,ROK
+514,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,kr
+515,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Daehan Minguk
+516,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Korea Republic
+517,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,🇰🇷
+518,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Rep. Korea
+519,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Republic of Great Han
+520,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,Republic of South Korea
+521,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,S. Korea
+522,Q83872398,2019–20 COVID-19 outbreak in South Korea,Q884,South Korea,The Republic of Great Han
+523,Q87768605,2020 coronavirus pandemic in Afghanistan,Q889,Afghanistan,AFG
+524,Q87768605,2020 coronavirus pandemic in Afghanistan,Q889,Afghanistan,af
+525,Q87768605,2020 coronavirus pandemic in Afghanistan,Q889,Afghanistan,🇦🇫
+526,Q87768605,2020 coronavirus pandemic in Afghanistan,Q889,Afghanistan,Islamic Republic of Afghanistan
+527,Q87540454,2020 coronavirus pandemic in Bangladesh,Q902,Bangladesh,BAN
+528,Q87540454,2020 coronavirus pandemic in Bangladesh,Q902,Bangladesh,bd
+529,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,🇰🇪
+530,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,KEN
+531,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,Republic of Kenya
+532,Q87665038,2020 coronavirus pandemic in Ethiopia,Q115,Ethiopia,et
+533,Q87665038,2020 coronavirus pandemic in Ethiopia,Q115,Ethiopia,🇪🇹
+534,Q87665038,2020 coronavirus pandemic in Ethiopia,Q115,Ethiopia,ETH
+535,Q87665038,2020 coronavirus pandemic in Ethiopia,Q115,Ethiopia,Federal Democratic Republic of Ethiopia
+536,Q87666247,2020 coronavirus pandemic in Ghana,Q117,Ghana,GHA
+537,Q87666247,2020 coronavirus pandemic in Ghana,Q117,Ghana,gh
+538,Q87666247,2020 coronavirus pandemic in Ghana,Q117,Ghana,🇬🇭
+539,Q87666247,2020 coronavirus pandemic in Ghana,Q117,Ghana,Republic of Ghana
+540,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Ceylon
+541,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Ceylan
+542,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,SRI
+543,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Srilanka
+544,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,ce
+545,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Democratic Socialist Republic of Sri Lanka
+546,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,"Lanka, Sri"
+547,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,lk
+548,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,🇱🇰
+549,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,lke
+550,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Serendib
+551,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,sri
+552,Q83889114,2019–20 coronavirus outbreak in Sri Lanka,Q854,Sri Lanka,Taprobane
+553,Q87540454,2020 coronavirus pandemic in Bangladesh,Q902,Bangladesh,🇧🇩
+554,Q88556836,2020 coronavirus pandemic in Mali,Q912,Mali,ml
+555,Q88556836,2020 coronavirus pandemic in Mali,Q912,Mali,🇲🇱
+556,Q88556836,2020 coronavirus pandemic in Mali,Q912,Mali,MLI
+557,Q88556836,2020 coronavirus pandemic in Mali,Q912,Mali,Republic of Mali
+558,Q88556836,2020 coronavirus pandemic in Mali,Q912,Mali,Republique du Mali
+559,Q88556836,2020 coronavirus pandemic in Mali,Q912,Mali,République du Mali
+560,Q88082534,2020 coronavirus pandemic in Angola,Q916,Angola,ANG
+561,Q88082534,2020 coronavirus pandemic in Angola,Q916,Angola,ao
+562,Q88082534,2020 coronavirus pandemic in Angola,Q916,Angola,🇦🇴
+563,Q88082534,2020 coronavirus pandemic in Angola,Q916,Angola,Ngola
+564,Q88082534,2020 coronavirus pandemic in Angola,Q916,Angola,Republic of Angola
+565,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,EGY
+566,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,eg
+567,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,Republic of Egypt
+568,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,Arab Rep. Egypt
+569,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,Arab Republic of Egypt
+570,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,🇪🇬
+571,Q87116829,2020 coronavirus outbreak in Egypt,Q79,Egypt,Rep. Egypt
+572,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,Republica Oriental del Uruguay
+573,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,República Oriental del Uruguay
+574,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,URU
+575,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,uy
+576,Q87660365,2020 coronavirus pandemic in Uruguay,Q77,Uruguay,🇺🇾
+577,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,MEX
+578,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,Mexican Republic
+579,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,MX
+580,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,mx
+581,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,🇲🇽
+582,Q86628344,2020 coronavirus outbreak in Mexico,Q96,Mexico,United Mexican States
+583,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,KE
+584,Q87705884,2020 coronavirus pandemic in Kenya,Q114,Kenya,ke
+585,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,Hellas
+586,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,Hellenic Republic
+587,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,gr
+588,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,GRE
+589,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,🇬🇷
+590,Q87068864,2020 coronavirus pandemic in Greece,Q41,Greece,Greek Republic
+591,Q87770827,2020 coronavirus pandemic in Tanzania,Q924,Tanzania,tz
+592,Q87770827,2020 coronavirus pandemic in Tanzania,Q924,Tanzania,🇹🇿
+593,Q87770827,2020 coronavirus pandemic in Tanzania,Q924,Tanzania,United Republic of Tanganyika and Zanzibar
+594,Q87770827,2020 coronavirus pandemic in Tanzania,Q924,Tanzania,United Republic of Tanzania
+595,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,PH
+596,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,RP
+597,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,PHL
+598,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,PHI
+599,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,ph
+600,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,Philippine Islands
+601,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,🇵🇭
+602,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,Republic of the Philippines
+603,Q84055544,2019–20 coronavirus outbreak in the Philippines,Q928,Philippines,the Philippines
+604,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,CAF
+605,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,CAR
+606,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,Centrafrique
+607,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,cf
+608,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,🇨🇫
+609,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,Ködörösêse tî Bêafrîka
+610,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,Republique centrafricaine
+611,Q87742085,2020 coronavirus pandemic in the Central African Republic,Q929,Central African Republic,République centrafricaine
+612,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,br
+613,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,BR
+614,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,🇧🇷
+615,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,BRA
+616,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Brasil
+617,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Estados Unidos del Brazil
+618,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Federativa Republica do Brasil
+619,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Federativa República do Brasil
+620,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Federative Republic of Brazil
+621,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Republic Federative of Brasil
+622,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,Republica Federativa do Brasil
+623,Q86597695,2020 COVID-19 outbreak in Brazil,Q155,Brazil,República Federativa do Brasil
+624,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,TOG
+625,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,Republique Togolaise
+626,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,République Togolaise
+627,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,tg
+628,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,🇹🇬
+629,Q87662819,2020 coronavirus pandemic in Togo,Q945,Togo,Togolese Republic
+630,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,al-Jumhūriyyah at-Tūnisiyyah
+631,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,Republic of Tunisia
+632,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,tn
+633,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,🇹🇳
+634,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,TUN
+635,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,Tūnis
+636,Q87343682,2020 coronavirus outbreak in Tunisia,Q948,Tunisia,Tunisian Republic
+637,Q87976629,2020 coronavirus pandemic in Zambia,Q953,Zambia,ZAM
+638,Q87976629,2020 coronavirus pandemic in Zambia,Q953,Zambia,Republic of Zambia
+639,Q87976629,2020 coronavirus pandemic in Zambia,Q953,Zambia,zm
+640,Q87976629,2020 coronavirus pandemic in Zambia,Q953,Zambia,🇿🇲
+641,Q84146057,2019–20 coronavirus outbreak in Hong Kong,Q148,People's Republic of China,China
+642,Q84146057,2019–20 coronavirus outbreak in Hong Kong,Q148,People's Republic of China,CHN
+643,Q84146057,2019–20 coronavirus outbreak in Hong Kong,Q148,People's Republic of China,cn
+644,Q84146057,2019–20 coronavirus outbreak in Hong Kong,Q148,People's Republic of China,CN
+645,Q84146057,2019–20 coronavirus outbreak in Hong Kong,Q148,People's Republic of China,🇨🇳
+646,Q84146057,2019–20 coronavirus outbreak in Hong Kong,Q148,People's Republic of China,Communist China
+647,Q84146057,2019–20 coronavirus outbreak in Hong Kong,Q148,People's Republic of China,PR China
+648,Q84146057,2019–20 coronavirus outbreak in Hong Kong,Q148,People's Republic of China,PRC
+649,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,China
+650,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,CHN
+651,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,cn
+652,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,CN
+653,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,🇨🇳
+654,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,Communist China
+655,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,PR China
+656,Q83872271,2019–20 coronavirus pandemic in mainland China,Q148,People's Republic of China,PRC
+657,Q83873593,2020 coronavirus pandemic in France,Q142,France,La France
+658,Q83873593,2020 coronavirus pandemic in France,Q142,France,FRA
+659,Q83873593,2020 coronavirus pandemic in France,Q142,France,FR
+660,Q83873593,2020 coronavirus pandemic in France,Q142,France,French Republic
+661,Q83873593,2020 coronavirus pandemic in France,Q142,France,fr
+662,Q87781572,2020 coronavirus pandemic in Benin,Q962,Benin,BEN
+663,Q87781572,2020 coronavirus pandemic in Benin,Q962,Benin,Republic of Benin
+664,Q87781572,2020 coronavirus pandemic in Benin,Q962,Benin,Dahomey
+665,Q87781572,2020 coronavirus pandemic in Benin,Q962,Benin,bj
+666,Q87781572,2020 coronavirus pandemic in Benin,Q962,Benin,🇧🇯
+667,Q87665364,2020 coronavirus pandemic in Burkina Faso,Q965,Burkina Faso,bf
+668,Q87665364,2020 coronavirus pandemic in Burkina Faso,Q965,Burkina Faso,🇧🇫
+669,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,CGO
+670,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,cg
+671,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,🇨🇬
+672,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Congo (Brazzaville)
+673,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Congo Republic
+674,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Congo-Brazzaville
+675,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Rep. Congo
+676,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Republic of Congo
+677,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,Republique du Congo
+678,Q87715166,2020 coronavirus pandemic in Bhutan,Q917,Bhutan,bt
+679,Q87715166,2020 coronavirus pandemic in Bhutan,Q917,Bhutan,BHU
+680,Q87715166,2020 coronavirus pandemic in Bhutan,Q917,Bhutan,🇧🇹
+681,Q87715166,2020 coronavirus pandemic in Bhutan,Q917,Bhutan,Kingdom of Bhutan
+682,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,BRN
+683,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,bn
+684,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,🇧🇳
+685,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,BRU
+686,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,Brunei Darussalam
+687,Q87412028,2020 coronavirus outbreak in Brunei,Q921,Brunei,"Nation of Brunei, the Abode of Peace"
+688,Q87742114,2020 coronavirus pandemic in the Republic of the Congo,Q971,Republic of the Congo,République du Congo
+689,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Congo
+690,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,cd
+691,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,COD
+692,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,DRC
+693,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Zaire
+694,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,🇨🇩
+695,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Congo (Kinshasa)
+696,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Congo-Kinshasa
+697,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Dem. Rep. Congo
+698,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Dem. Republic of Congo
+699,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Dem. Republic of the Congo
+700,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,Democratic Republic of Congo
+701,Q87706558,2020 coronavirus pandemic in the Democratic Republic of the Congo,Q974,Democratic Republic of the Congo,DR Congo
+702,Q83873593,2020 coronavirus pandemic in France,Q142,France,Republic of France
+703,Q83873593,2020 coronavirus pandemic in France,Q142,France,République française
+704,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,DJI
+705,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,Gabuuti
+706,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,Jabuuti
+707,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,dj
+708,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,🇩🇯
+709,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,Jībūtī
+710,Q87899022,2020 coronavirus pandemic in Djibouti,Q977,Djibouti,Republic of Djibouti
+711,Q87742064,2020 coronavirus pandemic in Equatorial Guinea,Q983,Equatorial Guinea,GEQ
+712,Q87742064,2020 coronavirus pandemic in Equatorial Guinea,Q983,Equatorial Guinea,gq
+713,Q87742064,2020 coronavirus pandemic in Equatorial Guinea,Q983,Equatorial Guinea,🇬🇶
+714,Q87742064,2020 coronavirus pandemic in Equatorial Guinea,Q983,Equatorial Guinea,Republic of Equatorial Guinea
+715,Q88371105,2020 coronavirus pandemic in Eritrea,Q986,Eritrea,IRI
+716,Q88371105,2020 coronavirus pandemic in Eritrea,Q986,Eritrea,ERI
+717,Q88371105,2020 coronavirus pandemic in Eritrea,Q986,Eritrea,🇪🇷
+718,Q88371105,2020 coronavirus pandemic in Eritrea,Q986,Eritrea,er
+719,Q88371105,2020 coronavirus pandemic in Eritrea,Q986,Eritrea,Ertrā
+720,Q88371105,2020 coronavirus pandemic in Eritrea,Q986,Eritrea,Iritriyā
+721,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,GBR
+722,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,UK
+723,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,🇬🇧
+724,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,U.K.
+725,Q84167106,2020 coronavirus pandemic in the United Kingdom,Q145,United Kingdom,United Kingdom of Great Britain and Northern Ireland
+726,Q88082409,2020 coronavirus pandemic in Akrotiri and Dhekelia,Q145,United Kingdom,GBR
+727,Q88082409,2020 coronavirus pandemic in Akrotiri and Dhekelia,Q145,United Kingdom,UK
+728,Q88082409,2020 coronavirus pandemic in Akrotiri and Dhekelia,Q145,United Kingdom,🇬🇧
+729,Q88082409,2020 coronavirus pandemic in Akrotiri and Dhekelia,Q145,United Kingdom,U.K.
+730,Q88082409,2020 coronavirus pandemic in Akrotiri and Dhekelia,Q145,United Kingdom,United Kingdom of Great Britain and Northern Ireland
+731,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,SYR
+732,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,sy
+733,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,🇸🇾
+734,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,Syrian Arab Republic
+735,Q87814953,2020 coronavirus pandemic in Syria,Q858,Syria,Ba'athist Syria
+736,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,tw
+737,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,Chinese Taipei
+738,Q84081307,2019–20 coronavirus outbreak in Taiwan,Q865,Taiwan,ROC
+739,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,by
+740,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,White Russia
+741,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,BLR
+742,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,White Ruthenia
+743,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Byelorussia
+744,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Belorussia
+745,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Bielorussia
+746,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,🇧🇾
+747,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Byeloruss
+748,Q87250788,2020 coronavirus outbreak in Belarus,Q184,Belarus,Republic of Belarus
+749,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,ISL
+750,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,Island
+751,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,is
+752,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,🇮🇸
+753,Q87121993,2020 coronavirus outbreak in Iceland,Q189,Iceland,Republic of Iceland
+754,Q88371105,2020 coronavirus pandemic in Eritrea,Q986,Eritrea,State of Eritrea
+755,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,ga
+756,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,GAB
+757,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,🇬🇦
+758,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,Gabonese Republic
+759,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,Republique Gabonaise
+760,Q87666042,2020 coronavirus pandemic in Gabon,Q1000,Gabon,République Gabonaise
+761,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,gn
+762,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,🇬🇳
+763,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,GUI
+764,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,Guinea-Conakry
+765,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,gm
+766,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,GAM
+767,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,🇬🇲
+768,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,Islamic Republic of the Gambia
+769,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,Republic of The Gambia
+770,Q87899016,2020 coronavirus pandemic in the Gambia,Q1005,Gambia,The Gambia
+771,Q84098939,2020 coronavirus pandemic in Russia,Q159,Russia,Rus
+772,Q84098939,2020 coronavirus pandemic in Russia,Q159,Russia,RU
+773,Q84098939,2020 coronavirus pandemic in Russia,Q159,Russia,Russian Federation
+774,Q84098939,2020 coronavirus pandemic in Russia,Q159,Russia,RUS
+775,Q84098939,2020 coronavirus pandemic in Russia,Q159,Russia,ru
+776,Q84098939,2020 coronavirus pandemic in Russia,Q159,Russia,Rossiya
+777,Q84098939,2020 coronavirus pandemic in Russia,Q159,Russia,Rossija
+778,Q84098939,2020 coronavirus pandemic in Russia,Q159,Russia,Rossijskaja Federatsija
+779,Q84098939,2020 coronavirus pandemic in Russia,Q159,Russia,Rossiyskaya Federatsiya
+780,Q88164033,2020 coronavirus pandemic in Zimbabwe,Q954,Zimbabwe,Rhodesia
+781,Q88164033,2020 coronavirus pandemic in Zimbabwe,Q954,Zimbabwe,ZIM
+782,Q88164033,2020 coronavirus pandemic in Zimbabwe,Q954,Zimbabwe,Southern Rhodesia
+783,Q88164033,2020 coronavirus pandemic in Zimbabwe,Q954,Zimbabwe,Republic of Zimbabwe
+784,Q88164033,2020 coronavirus pandemic in Zimbabwe,Q954,Zimbabwe,Zimbabwe Rhodesia
+785,Q88164033,2020 coronavirus pandemic in Zimbabwe,Q954,Zimbabwe,zw
+786,Q88164033,2020 coronavirus pandemic in Zimbabwe,Q954,Zimbabwe,🇿🇼
+787,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,Republic of Guinea
+788,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,Republique de Guinee
+789,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,République de Guinée
+790,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,ߊߝߙߌߞߌ߬ ߕߋ߬ߟߋߓߋ ߖߡߊ߬ߣߊ ߘߏ
+791,Q87651970,2020 coronavirus pandemic in Guinea,Q1006,Guinea,ߖߌ߬ߣߍ߬ ߞߊ߲ߓߍ߲
+792,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,CIV
+793,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,ci
+794,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,🇨🇮
+795,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d ivoire
+796,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d' Ivoire
+797,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote D' Ivoire
+798,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d'ivoire
+799,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d'Ivoire
+800,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote D'Ivoire
+801,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d'ivoire
+802,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d'Ivoire
+803,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte D'ivoire
+804,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte D'Ivoire
+805,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d'ivore
+806,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d'Ivorie
+807,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d'lvoire
+808,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d’Ivoire
+809,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d’Ivoire
+810,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote d´Ivoire
+811,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte d´Ivoire
+812,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote divoire
+813,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote dIvoire
+814,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote Divoire
+815,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte Divoire
+816,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote Ivoire
+817,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Cote-d'Ivoire
+818,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Côte-d'Ivoire
+819,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Ivory coast
+820,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Republic of Cote d'Ivoire
+821,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Republic of Côte d'Ivoire
+822,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Republic of Ivory Coast
+823,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,Republic of the Ivory Coast
+824,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,République de Côte d'Ivoire
+825,Q87704267,2020 coronavirus pandemic in Ivory Coast,Q1008,Ivory Coast,The Ivory Coast
+826,Q88082639,2020 coronavirus pandemic in Cape Verde,Q1011,Cape Verde,cv
+827,Q88082639,2020 coronavirus pandemic in Cape Verde,Q1011,Cape Verde,CV
+828,Q88082639,2020 coronavirus pandemic in Cape Verde,Q1011,Cape Verde,Cabo Verde
+829,Q88082639,2020 coronavirus pandemic in Cape Verde,Q1011,Cape Verde,CPV
+830,Q88082639,2020 coronavirus pandemic in Cape Verde,Q1011,Cape Verde,🇨🇻
+831,Q88082639,2020 coronavirus pandemic in Cape Verde,Q1011,Cape Verde,Republic of Cape Verde
+832,Q87766242,2020 coronavirus pandemic in Liberia,Q1014,Liberia,LBR
+833,Q87766242,2020 coronavirus pandemic in Liberia,Q1014,Liberia,lr
+834,Q87766242,2020 coronavirus pandemic in Liberia,Q1014,Liberia,🇱🇷
+835,Q87766242,2020 coronavirus pandemic in Liberia,Q1014,Liberia,Republic of Liberia
+836,Q88225303,2020 coronavirus pandemic in Madagascar,Q1019,Madagascar,MAD
+837,Q88225303,2020 coronavirus pandemic in Madagascar,Q1019,Madagascar,mg
+838,Q88225303,2020 coronavirus pandemic in Madagascar,Q1019,Madagascar,🇲🇬
+839,Q88225303,2020 coronavirus pandemic in Madagascar,Q1019,Madagascar,Republic of Madagascar
+840,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,mu
+841,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,MRI
+842,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,Maurice
+843,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,Moris
+844,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,🇲🇺
+845,Q87979033,2020 coronavirus pandemic in Mauritius,Q1027,Mauritius,Republic of Mauritius
+846,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,MTN
+847,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,mr
+848,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Agawej
+849,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Gannaar
+850,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Gànnaar
+851,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Islamic Republic of Mauritania
+852,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Moritani
+853,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,🇲🇷
+854,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Muritanya
+855,Q87709900,2020 coronavirus pandemic in Mauritania,Q1025,Mauritania,Murutaane
+856,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,BRD
+857,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,Bundesrepublik Deutschland
+858,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,de
+859,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,Deutschland
+860,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,Federal Republic of Germany
+861,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,FRG
+862,Q83889294,2020 coronavirus pandemic in Germany,Q183,Germany,GER
+863,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,🇧🇬
+864,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,Republic of Bulgaria
+865,Q87729501,2020 coronavirus pandemic in Namibia,Q1030,Namibia,🇳🇦
+866,Q87729501,2020 coronavirus pandemic in Namibia,Q1030,Namibia,Republic of Namibia
+867,Q88082809,2020 coronavirus pandemic in Niger,Q1032,Niger,ne
+868,Q88082809,2020 coronavirus pandemic in Niger,Q1032,Niger,🇳🇪
+869,Q88082809,2020 coronavirus pandemic in Niger,Q1032,Niger,Republic Niger
+870,Q88082809,2020 coronavirus pandemic in Niger,Q1032,Niger,Republic of Niger
+871,Q88082809,2020 coronavirus pandemic in Niger,Q1032,Niger,Republic of The Niger
+872,Q88082809,2020 coronavirus pandemic in Niger,Q1032,Niger,The Niger
+873,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,NG
+874,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,NGR
+875,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,NGA
+876,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,Federal Republic of Nigeria
+877,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,FRN
+878,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,Naija
+879,Q87718451,2020 coronavirus pandemic in Nigeria,Q1033,Nigeria,🇳🇬
+880,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,EST
+881,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,Eesti
+882,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,ee
+883,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,Estland
+884,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,🇪🇪
+885,Q87204911,2020 coronavirus outbreak in Estonia,Q191,Estonia,Republic of Estonia
+886,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,LAT
+887,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,Latvija
+888,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,LVA
+889,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,lv
+890,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,Latvian Republic
+891,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,🇱🇻
+892,Q87066621,2020 coronavirus outbreak in Latvia,Q211,Latvia,Republic of Latvia
+893,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,UKR
+894,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,UA
+895,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,ua
+896,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,🇺🇦
+897,Q87235177,2020 coronavirus outbreak in Ukraine,Q212,Ukraine,Ukrainia
+898,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,Česká republika
+899,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,Česko
+900,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,ČR
+901,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,cz
+902,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,🇨🇿
+903,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,cze
+904,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,CZE
+905,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,Czechia
+906,Q86919406,2020 coronavirus outbreak in the Czech Republic,Q213,Czech Republic,CZR
+907,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,Macedonia
+908,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,ro
+909,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,Rumania
+910,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,🇷🇴
+911,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,România
+912,Q87250752,2020 coronavirus pandemic in Romania,Q218,Romania,Roumania
+913,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,bg
+914,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,BUL
+915,Q87486535,2020 coronavirus pandemic in Bulgaria,Q219,Bulgaria,BGR
+916,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,🇲🇩
+917,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,Republic of Moldova
+918,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,Republica Moldova
+919,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,Former Yugoslav Republic of Macedonia
+920,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,FYR Macedonia
+921,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,FYROM
+922,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,🇲🇰
+923,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,MKD
+924,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,Republic of Macedonia
+925,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,Republic of North Macedonia
+926,Q87250897,2020 coronavirus outbreak in North Macedonia,Q221,North Macedonia,mk
+927,Q87729501,2020 coronavirus pandemic in Namibia,Q1030,Namibia,na
+928,Q87729501,2020 coronavirus pandemic in Namibia,Q1030,Namibia,NAM
+929,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,MAR
+930,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Marocco
+931,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,ma
+932,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Maroc
+933,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,al-Maġrib
+934,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Arab Maghreb
+935,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Kingdom of Morocco
+936,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,Lmaġrib
+937,Q87058723,2020 coronavirus outbreak in Morocco,Q1028,Morocco,🇲🇦
+938,Q88335426,2020 coronavirus pandemic in Mozambique,Q1029,Mozambique,MOZ
+939,Q88335426,2020 coronavirus pandemic in Mozambique,Q1029,Mozambique,MZ
+940,Q88335426,2020 coronavirus pandemic in Mozambique,Q1029,Mozambique,Moçambique
+941,Q88335426,2020 coronavirus pandemic in Mozambique,Q1029,Mozambique,mz
+942,Q88335426,2020 coronavirus pandemic in Mozambique,Q1029,Mozambique,🇲🇿
+943,Q88335426,2020 coronavirus pandemic in Mozambique,Q1029,Mozambique,Republic of Mozambique
+944,Q88335426,2020 coronavirus pandemic in Mozambique,Q1029,Mozambique,República de Moçambique
+945,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,Palestine
+946,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,PA
+947,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,Palestinian Authority
+948,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,Palestinian state
+949,Q87199320,2020 coronavirus pandemic in the State of Palestine,Q219060,State of Palestine,🇵🇸
+950,Q87200954,2020 coronavirus outbreak in Slovakia,Q214,Slovakia,SVK
+951,Q87200954,2020 coronavirus outbreak in Slovakia,Q214,Slovakia,sk
+952,Q87200954,2020 coronavirus outbreak in Slovakia,Q214,Slovakia,🇸🇰
+953,Q87200954,2020 coronavirus outbreak in Slovakia,Q214,Slovakia,Slovak Republic
+954,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,ALB
+955,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,al
+956,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,🇦🇱
+957,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,Republic of Albania
+958,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,Republika e Shqipërisë
+959,Q87450756,2020 coronavirus outbreak in Albania,Q222,Albania,Shqipërisë
+960,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,SLO
+961,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,slo
+962,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,si
+963,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,svn
+964,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,Republic of Slovenia
+965,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,Republika Slovenija
+966,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,🇸🇮
+967,Q87250948,2020 coronavirus pandemic in Slovenia,Q215,Slovenia,Slovenija
+968,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,md
+969,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,MDA
+970,Q87592982,2020 coronavirus pandemic in Moldova,Q217,Moldova,Moldavia
+971,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,hr
+972,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,CRO
+973,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,HRV
+974,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,HR
+975,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,🇭🇷
+976,Q87250732,2020 coronavirus outbreak in Croatia,Q224,Croatia,Republic of Croatia
+977,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,ba
+978,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,B&H
+979,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,Bosnia
+980,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,BIH
+981,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,🇧🇦
+982,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,BiH
+983,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,Bosnia & Herzegovina
+984,Q87250770,2020 coronavirus outbreak in Bosnia and Herzegovina,Q225,Bosnia and Herzegovina,Bosnia-Herzegovina
+985,Q87722485,2020 coronavirus pandemic in Azerbaijan,Q227,Azerbaijan,AZE
+986,Q87722485,2020 coronavirus pandemic in Azerbaijan,Q227,Azerbaijan,az
+987,Q87722485,2020 coronavirus pandemic in Azerbaijan,Q227,Azerbaijan,🇦🇿
+988,Q87722485,2020 coronavirus pandemic in Azerbaijan,Q227,Azerbaijan,Republic of Azerbaijan
+989,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,AND
+990,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,ad
+991,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,🇦🇩
+992,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,Principality of Andorra
+993,Q87715843,2020 coronavirus pandemic in Andorra,Q228,Andorra,Principality of the Valleys of Andorra
+994,Q87580938,2020 coronavirus pandemic in Cyprus,Q229,Republic of Cyprus,Cyprus
+995,Q87580938,2020 coronavirus pandemic in Cyprus,Q229,Republic of Cyprus,cy
+996,Q87580938,2020 coronavirus pandemic in Cyprus,Q229,Republic of Cyprus,🇨🇾
+997,Q87250877,2020 coronavirus outbreak in Monaco,Q235,Monaco,MON
+998,Q87250877,2020 coronavirus outbreak in Monaco,Q235,Monaco,mc
+999,Q87250877,2020 coronavirus outbreak in Monaco,Q235,Monaco,🇲🇨
+1000,Q87250877,2020 coronavirus outbreak in Monaco,Q235,Monaco,Principality of Monaco
+1001,Q87587760,2020 coronavirus pandemic in Malta,Q233,Malta,MLT
+1002,Q87587760,2020 coronavirus pandemic in Malta,Q233,Malta,mt
+1003,Q87587760,2020 coronavirus pandemic in Malta,Q233,Malta,🇲🇹
+1004,Q87587760,2020 coronavirus pandemic in Malta,Q233,Malta,Republic of Malta
+1005,Q87250913,2020 coronavirus outbreak in Georgia,Q230,Georgia,GEO
+1006,Q87250913,2020 coronavirus outbreak in Georgia,Q230,Georgia,Republic of Georgia
+1007,Q87250913,2020 coronavirus outbreak in Georgia,Q230,Georgia,GE
+1008,Q87250913,2020 coronavirus outbreak in Georgia,Q230,Georgia,🇬🇪
+1009,Q87580938,2020 coronavirus pandemic in Cyprus,Q229,Republic of Cyprus,Greek Cypriot State
+1010,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,kz
+1011,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,KAZ
+1012,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,🇰🇿
+1013,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,Qazaqstan
+1014,Q87651995,2020 coronavirus pandemic in Kazakhstan,Q232,Kazakhstan,Republic of Kazakhstan
+1015,Q87887813,2020 coronavirus pandemic in Montenegro,Q236,Montenegro,me
+1016,Q87887813,2020 coronavirus pandemic in Montenegro,Q236,Montenegro,MNE
+1017,Q87887813,2020 coronavirus pandemic in Montenegro,Q236,Montenegro,🇲🇪
+1018,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,va
+1019,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,vat
+1020,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Vatican
+1021,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Città del Vaticano
+1022,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Civitas Vaticana
+1023,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Papal State
+1024,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,State of Vatican City
+1025,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Stato della Città del Vaticano
+1026,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Status Civitatis Vaticanae
+1027,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,The Vatican
+1028,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,🇻🇦
+1029,Q87222526,2020 coronavirus outbreak in Vatican City,Q237,Vatican City,Vatican City State
+1030,Q88561418,2020 coronavirus pandemic in Belize,Q242,Belize,bz
+1031,Q88561418,2020 coronavirus pandemic in Belize,Q242,Belize,🇧🇿
+1032,Q87590993,2020 coronavirus pandemic in Cuba,Q241,Cuba,cu
+1033,Q87590993,2020 coronavirus pandemic in Cuba,Q241,Cuba,🇨🇺
+1034,Q87590993,2020 coronavirus pandemic in Cuba,Q241,Cuba,Republic of Cuba
+1035,Q86913546,2020 coronavirus pandemic in Indonesia,Q252,Indonesia,INA
+1036,Q86913546,2020 coronavirus pandemic in Indonesia,Q252,Indonesia,ID
+1037,Q86913546,2020 coronavirus pandemic in Indonesia,Q252,Indonesia,id
+1038,Q86913546,2020 coronavirus pandemic in Indonesia,Q252,Indonesia,🇮🇩
+1039,Q86913546,2020 coronavirus pandemic in Indonesia,Q252,Indonesia,IDN
+1040,Q86913546,2020 coronavirus pandemic in Indonesia,Q252,Indonesia,Republic of Indonesia
+1041,Q87123561,2020 coronavirus outbreak in San Marino,Q238,San Marino,SMR
+1042,Q87123561,2020 coronavirus outbreak in San Marino,Q238,San Marino,sm
+1043,Q87123561,2020 coronavirus outbreak in San Marino,Q238,San Marino,Most Serene Republic of San Marino
+1044,Q87123561,2020 coronavirus outbreak in San Marino,Q238,San Marino,🇸🇲
+1045,Q87590993,2020 coronavirus pandemic in Cuba,Q241,Cuba,CUB
+1046,Q88263719,2020 coronavirus pandemic in Uganda,Q1036,Uganda,UGA
+1047,Q88263719,2020 coronavirus pandemic in Uganda,Q1036,Uganda,Republic of Uganda
+1048,Q88263719,2020 coronavirus pandemic in Uganda,Q1036,Uganda,ug
+1049,Q88263719,2020 coronavirus pandemic in Uganda,Q1036,Uganda,🇺🇬
+1050,Q87714704,2020 coronavirus pandemic in Rwanda,Q1037,Rwanda,rw
+1051,Q87714704,2020 coronavirus pandemic in Rwanda,Q1037,Rwanda,Republic of Rwanda
+1052,Q87714704,2020 coronavirus pandemic in Rwanda,Q1037,Rwanda,🇷🇼
+1053,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,sn
+1054,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,SEN
+1055,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,Republic of Senegal
+1056,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,Republique du Senegal
+1057,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,République du Sénégal
+1058,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,Sénégal
+1059,Q87745903,2020 coronavirus pandemic in Senegal,Q1041,Senegal,🇸🇳
+1060,Q87729500,2020 coronavirus pandemic in Seychelles,Q1042,Seychelles,sc
+1061,Q87729500,2020 coronavirus pandemic in Seychelles,Q1042,Seychelles,SEY
+1062,Q87729500,2020 coronavirus pandemic in Seychelles,Q1042,Seychelles,Republic of Seychelles
+1063,Q87729500,2020 coronavirus pandemic in Seychelles,Q1042,Seychelles,🇸🇨
+1064,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,so
+1065,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,SOM
+1066,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,aṣ-Ṣūmāl
+1067,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,Federal Republic of Somalia
+1068,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,🇸🇴
+1069,Q87770645,2020 coronavirus pandemic in Somalia,Q1045,Somalia,Soomaaliya
+1070,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,as-Sūdān
+1071,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,North Sudan
+1072,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,Republic of Sudan
+1073,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,Republic of the Sudan
+1074,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,sd
+1075,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,🇸🇩
+1076,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,SUD
+1077,Q87657486,2020 coronavirus pandemic in Sudan,Q1049,Sudan,the Sudan
+1078,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,SWZ
+1079,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,sz
+1080,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,Swaziland
+1081,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,eSwatini
+1082,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,Kingdom of Eswatini
+1083,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,Kingdom of Swaziland
+1084,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,🇸🇿
+1085,Q87709973,2020 coronavirus pandemic in Eswatini,Q1050,Eswatini,Umbuso weSwatini
+1086,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,KOS
+1087,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,XK
+1088,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,KV
+1089,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,XKX
+1090,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,Republic of Kosovo
+1091,Q87655119,2020 coronavirus pandemic in Kosovo,Q1246,Kosovo,🇽🇰
+1092,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,ARU
+1093,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,America/Aruba
+1094,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,aw
+1095,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,🇦🇼
+1096,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,Island of Aruba
+1097,Q87708719,2020 coronavirus pandemic in Aruba,Q21203,Aruba,ISO 3166-1:AW
+1098,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,bm
+1099,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Bermuda Islands
+1100,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Atlantic/Bermuda
+1101,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Bermoothes
+1102,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Bermudas
+1103,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Bermudian Islands
+1104,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,🇧🇲
+1105,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Colony of Bermuda
+1106,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Devil's Isles
+1107,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Isle of Devils
+1108,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Somers Islands
+1109,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Somers Isles
+1110,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Summer's Isles
+1111,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Summers' Isles
+1112,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Territory of Bermuda
+1113,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,The Somers Isles
+1114,Q88082556,2020 coronavirus pandemic in Bermuda,Q23635,Bermuda,Virgineola
+1115,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,NCY
+1116,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,TRNC
+1117,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,North Cyprus
+1118,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,North Cyprus Turkish Republic
+1119,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Northern Cyprus
+1120,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Republic of Northern Cyprus
+1121,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,The Turkish Republic of Northern Cyprus
+1122,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Cypriot constituent state
+1123,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Cypriot state
+1124,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Cyprus
+1125,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Federative State of North Cyprus
+1126,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish occupied Cyprus
+1127,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Republic of Cyprus
+1128,Q87743173,2020 coronavirus pandemic in Northern Cyprus,Q23681,Turkish Republic of Northern Cyprus,Turkish Republic of North Cyprus
+1129,Q88082922,2020 coronavirus pandemic in Sint Maarten,Q26273,Sint Maarten,NL-SX
+1130,Q88082922,2020 coronavirus pandemic in Sint Maarten,Q26273,Sint Maarten,Saint Martin (Dutch part)
+1131,Q88082922,2020 coronavirus pandemic in Sint Maarten,Q26273,Sint Maarten,Sint Maarten (Dutch part)
+1132,Q88082922,2020 coronavirus pandemic in Sint Maarten,Q26273,Sint Maarten,St. Maarten
+1133,Q88082922,2020 coronavirus pandemic in Sint Maarten,Q26273,Sint Maarten,🇸🇽
+1134,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,CW
+1135,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curacao
+1136,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Country of Curaçao
+1137,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curacau
+1138,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curaçoa
+1139,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curazao
+1140,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curaςao
+1141,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Curocao
+1142,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,CUW
+1143,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,🇨🇼
+1144,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Island Territory of Curaçao
+1145,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,ISO 3166-1:CW
+1146,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Korsou
+1147,Q87709760,2020 coronavirus pandemic in Curaçao,Q25279,Curaçao,Kòrsou
+1148,Q88082922,2020 coronavirus pandemic in Sint Maarten,Q26273,Sint Maarten,Saint Martin
+1149,Q88082922,2020 coronavirus pandemic in Sint Maarten,Q26273,Sint Maarten,SX
+1150,Q88082922,2020 coronavirus pandemic in Sint Maarten,Q26273,Sint Maarten,St Martin
+1151,Q87250930,2020 coronavirus outbreak in Cameroon,Q29406548,Cameroun,
