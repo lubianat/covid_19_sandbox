@@ -1,5 +1,6 @@
 #Given a date or a number, the code will retrieve UN's report about covid19 for that day. 
 
+import datetime as dt
 from datetime import date
 from datetime import timedelta
 
@@ -78,4 +79,10 @@ def get_dicitionary_of_outbreaks_to_countries(output_file, print_dict = True ):
 
     dictionary.to_csv(output_file)
     
+
     
+def get_wikidata_date_from_report_number(report_number):
+    first_report_date =  dt.date(2020, 1, 20)
+    report_date = first_report_date + timedelta(report_number)
+    date_string = report_date.strftime("+%Y-%m-%dT00:00:00Z/11")
+    return(date_string)
