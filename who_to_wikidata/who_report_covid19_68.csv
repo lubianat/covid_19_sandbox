@@ -1,0 +1,175 @@
+,country,total_cases,cases_today,total_deaths,deaths_today,classification,says since last case
+0,Croatia,586,91.0,3.0,1.0,Local transmission,0.0
+1,Estonia,575,37.0,1.0,0.0,Local transmission,0.0
+2,Serbia,528,71.0,7.0,0.0,Local transmission,0.0
+3,Armenia,372,43.0,1.0,0.0,Local transmission,0.0
+4,Lithuania,358,59.0,5.0,1.0,Local transmission,0.0
+5,Hungary,343,43.0,11.0,1.0,Local transmission,0.0
+6,Ukraine,311,93.0,8.0,3.0,Local transmission,0.0
+7,Slovakia,295,69.0,0.0,0.0,Local transmission,0.0
+8,Bulgaria,293,29.0,3.0,0.0,Local transmission,0.0
+9,Andorra,289,58.0,3.0,0.0,Local transmission,0.0
+10,Latvia,280,36.0,0.0,0.0,Local transmission,0.0
+11,Bosnia and Herzegovina,233,20.0,4.0,1.0,Local transmission,0.0
+12,San Marino,228,10.0,21.0,0.0,Local transmission,0.0
+13,North Macedonia,219,18.0,3.0,0.0,Local transmission,0.0
+14,Kazakhstan,204,79.0,1.0,1.0,Imported cases only,0.0
+15,Republic of Moldova,199,22.0,2.0,0.0,Local transmission,0.0
+16,Albania,197,11.0,9.0,1.0,Local transmission,0.0
+17,Cyprus,162,16.0,5.0,2.0,Local transmission,0.0
+18,Azerbaijan,147,25.0,3.0,0.0,Local transmission,0.0
+19,Malta,139,5.0,0.0,0.0,Local transmission,0.0
+20,Uzbekistan,104,21.0,1.0,1.0,Local transmission,0.0
+21,Belarus,94,8.0,0.0,0.0,Local transmission,0.0
+22,Georgia,85,4.0,0.0,0.0,Local transmission,0.0
+23,Montenegro,70,3.0,1.0,0.0,Local transmission,0.0
+24,Liechtenstein,60,4.0,0.0,0.0,Imported cases only,0.0
+25,Kyrgyzstan,58,0.0,0.0,0.0,Local transmission,1.0
+26,Monaco,19,0.0,0.0,0.0,Local transmission,5.0
+27,Holy See,4,0.0,0.0,0.0,Under investigation,2.0
+28,,erritories**,,,,,
+29,Faroe Islands,144,4.0,0.0,0.0,Local transmission,0.0
+30,Kosovo[1],88,9.0,1.0,0.0,Local transmission,0.0
+31,Gibraltar,55,20.0,0.0,0.0,Local transmission,0.0
+32,Jersey,52,20.0,1.0,0.0,Local transmission,0.0
+33,Guernsey,36,2.0,0.0,0.0,Local transmission,0.0
+34,Isle of Man,29,3.0,0.0,0.0,Local transmission,0.0
+35,Greenland,9,3.0,0.0,0.0,Under investigation,0.0
+36,,outh-East Asia Region,,,,,
+37,Thailand,1136,0.0,5.0,0.0,Local transmission,1.0
+38,Indonesia,1046,153.0,87.0,9.0,Local transmission,0.0
+39,India,724,0.0,17.0,0.0,Local transmission,1.0
+40,Sri Lanka,106,0.0,0.0,0.0,Local transmission,1.0
+41,Bangladesh,48,0.0,5.0,0.0,Local transmission,1.0
+42,Maldives,13,0.0,0.0,0.0,Local transmission,12.0
+43,Myanmar,5,0.0,0.0,0.0,Imported cases only,1.0
+44,Bhutan,3,0.0,0.0,0.0,Imported cases only,1.0
+45,Nepal,3,0.0,0.0,0.0,Imported cases only,2.0
+46,Timor-Leste,1,0.0,0.0,0.0,Imported cases only,7.0
+47,,astern Mediterranean Region,,,,,
+48,Iran (Islamic Republic of),32332,2926.0,2378.0,144.0,Local transmission,0.0
+49,Pakistan,1235,178.0,9.0,1.0,Local transmission,0.0
+50,Saudi Arabia,1104,92.0,3.0,0.0,Local transmission,0.0
+51,Qatar,562,13.0,0.0,0.0,Local transmission,0.0
+0,Egypt,536,41.0,30.0,6.0,Local transmission,0.0
+1,Bahrain,473,15.0,4.0,0.0,Local transmission,0.0
+2,Iraq,458,76.0,40.0,4.0,Local transmission,0.0
+3,United Arab Emirates,405,72.0,2.0,0.0,Local transmission,0.0
+4,Lebanon,391,23.0,8.0,2.0,Local transmission,0.0
+5,Morocco,358,83.0,23.0,13.0,Local transmission,0.0
+6,Jordan,235,23.0,1.0,1.0,Local transmission,0.0
+7,Kuwait,235,27.0,0.0,0.0,Local transmission,0.0
+8,Tunisia,227,30.0,6.0,1.0,Local transmission,0.0
+9,Oman,152,43.0,0.0,0.0,Local transmission,0.0
+10,Afghanistan,106,26.0,2.0,0.0,Local transmission,0.0
+11,Djibouti,13,1.0,0.0,0.0,Local transmission,0.0
+12,Syrian Arab Republic,5,0.0,0.0,0.0,Imported cases only,2.0
+13,Somalia,3,0.0,0.0,0.0,Imported cases only,1.0
+14,Sudan,3,0.0,1.0,0.0,Imported cases only,3.0
+15,Libya,1,0.0,0.0,0.0,Imported cases only,3.0
+16,,Territories**,,,,,
+17,occupied Palestinian territory,97,13.0,1.0,0.0,Local transmission,0.0
+18,,Region of the Americas,,,,,
+19,United States of America,85228,16894.0,1243.0,252.0,Local transmission,0.0
+20,Canada,4018,463.0,39.0,4.0,Local transmission,0.0
+21,Brazil,2915,482.0,77.0,20.0,Local transmission,0.0
+22,Chile,1610,304.0,5.0,1.0,Local transmission,0.0
+23,Ecuador,1595,384.0,36.0,7.0,Local transmission,0.0
+24,Panama,674,116.0,9.0,1.0,Local transmission,0.0
+25,Argentina,589,87.0,12.0,4.0,Local transmission,0.0
+26,Mexico,589,111.0,8.0,3.0,Local transmission,0.0
+27,Dominican Republic,581,93.0,20.0,10.0,Local transmission,0.0
+28,Peru,580,0.0,9.0,0.0,Local transmission,1.0
+29,Colombia,491,21.0,6.0,2.0,Local transmission,0.0
+30,Uruguay,238,21.0,0.0,0.0,Local transmission,0.0
+31,Costa Rica,231,30.0,2.0,0.0,Local transmission,0.0
+32,Venezuela (Bolivarian Republic of),106,15.0,0.0,0.0,Local transmission,0.0
+33,Cuba,80,13.0,2.0,1.0,Local transmission,0.0
+34,Honduras,67,15.0,1.0,0.0,Local transmission,0.0
+35,Trinidad and Tobago,66,5.0,2.0,1.0,Local transmission,0.0
+36,Bolivia (Plurinational State of),61,22.0,0.0,0.0,Local transmission,0.0
+37,Paraguay,52,11.0,3.0,0.0,Local transmission,0.0
+38,Jamaica,26,0.0,1.0,0.0,Local transmission,2.0
+39,Guatemala,25,1.0,1.0,0.0,Local transmission,0.0
+40,Barbados,24,6.0,0.0,0.0,Local transmission,0.0
+41,El Salvador,13,0.0,0.0,0.0,Imported cases only,2.0
+42,Dominica,11,0.0,0.0,0.0,Local transmission,1.0
+43,Bahamas,9,4.0,0.0,0.0,Local transmission,0.0
+44,Haiti,8,0.0,0.0,0.0,Imported cases only,2.0
+45,Suriname,8,1.0,0.0,0.0,Imported cases only,0.0
+46,Antigua and Barbuda,7,4.0,0.0,0.0,Imported cases only,0.0
+47,Grenada,7,0.0,0.0,0.0,Local transmission,1.0
+48,Guyana,5,0.0,1.0,0.0,Local transmission,9.0
+49,Saint Lucia,3,0.0,0.0,0.0,Imported cases only,4.0
+0,Belize,2,0.0,0.0,0.0,Local transmission,2.0
+1,Nicaragua,2,0.0,1.0,1.0,Imported cases only,6.0
+2,Saint Kitts and Nevis,2,0.0,0.0,0.0,Imported cases only,2.0
+3,Saint Vincent and the Grenadines,1,0.0,0.0,0.0,Imported cases only,15.0
+4,,Territories**,,,,,
+5,Guadeloupe,96,20.0,2.0,2.0,Imported cases only,0.0
+6,Martinique,93,27.0,1.0,0.0,Imported cases only,0.0
+7,Puerto Rico,64,0.0,2.0,0.0,Imported cases only,1.0
+8,French Guiana,31,3.0,0.0,0.0,Local transmission,0.0
+9,Aruba,28,9.0,0.0,0.0,Local transmission,0.0
+10,United States Virgin Islands,17,0.0,0.0,0.0,Imported cases only,4.0
+11,Bermuda,15,8.0,0.0,0.0,Local transmission,0.0
+12,Saint Martin,12,1.0,0.0,0.0,Under investigation,0.0
+13,Cayman Islands,8,0.0,1.0,0.0,Imported cases only,2.0
+14,Curaçao,7,0.0,1.0,0.0,Imported cases only,1.0
+15,Montserrat,5,3.0,0.0,0.0,Imported cases only,0.0
+16,Saint Barthélemy,5,2.0,0.0,0.0,Under investigation,0.0
+17,Sint Maarten,3,1.0,0.0,0.0,Imported cases only,0.0
+18,Anguilla,2,0.0,0.0,0.0,Local transmission,1.0
+19,British Virgin Islands,2,0.0,0.0,0.0,Imported cases only,1.0
+20,Turks and Caicos Islands,2,0.0,0.0,0.0,Imported cases only,1.0
+21,,African Region,,,,,
+22,South Africa,1170,243.0,2.0,2.0,Local transmission,0.0
+23,Algeria,367,62.0,25.0,4.0,Local transmission,0.0
+24,Burkina Faso,146,0.0,3.0,0.0,Local transmission,2.0
+25,Ghana,137,5.0,4.0,1.0,Local transmission,0.0
+26,Senegal,119,14.0,0.0,0.0,Local transmission,0.0
+27,Mauritius,96,15.0,2.0,0.0,Imported cases only,0.0
+28,Cote d’Ivoire,92,12.0,0.0,0.0,Imported cases only,0.0
+29,Cameroon,75,0.0,1.0,0.0,Local transmission,1.0
+30,Nigeria,65,0.0,1.0,0.0,Local transmission,1.0
+31,Democratic Republic of the Congo,58,4.0,4.0,0.0,Local transmission,0.0
+32,Rwanda,54,4.0,0.0,0.0,Local transmission,0.0
+33,Madagascar,26,2.0,0.0,0.0,Imported cases only,0.0
+34,Kenya,25,0.0,1.0,0.0,Local transmission,3.0
+35,Togo,25,1.0,0.0,0.0,Imported cases only,0.0
+36,Congo,19,15.0,0.0,0.0,Imported cases only,0.0
+37,Ethiopia,16,4.0,0.0,0.0,Imported cases only,0.0
+38,Uganda,14,0.0,0.0,0.0,Imported cases only,2.0
+39,United Republic of Tanzania,13,0.0,0.0,0.0,Imported cases only,2.0
+40,Zambia,13,10.0,0.0,0.0,Local transmission,0.0
+41,Niger,10,0.0,1.0,0.0,Local transmission,1.0
+42,Eswatini,9,3.0,0.0,0.0,Imported cases only,0.0
+43,Mali,9,7.0,0.0,0.0,Local transmission,0.0
+44,Guinea,8,3.0,0.0,0.0,Imported cases only,0.0
+45,Namibia,8,0.0,0.0,0.0,Imported cases only,1.0
+46,Gabon,7,1.0,1.0,0.0,Imported cases only,0.0
+47,Mozambique,7,2.0,0.0,0.0,Local transmission,0.0
+48,Seychelles,7,0.0,0.0,0.0,Imported cases only,6.0
+0,Benin,6.0,0.0,0.0,0.0,Imported cases only,1.0
+1,Central African,,,,,,
+2,Republic,6.0,1.0,0.0,0.0,Imported cases only,0.0
+3,Equatorial Guinea,6.0,0.0,0.0,0.0,Imported cases only,6.0
+4,Eritrea,6.0,0.0,0.0,0.0,Imported cases only,1.0
+5,Cabo Verde,5.0,2.0,1.0,1.0,Imported cases only,0.0
+6,Chad,5.0,0.0,0.0,0.0,Imported cases only,1.0
+7,Zimbabwe,5.0,2.0,1.0,0.0,Local transmission,0.0
+8,Liberia,3.0,0.0,0.0,0.0,Local transmission,6.0
+9,Mauritania,3.0,0.0,0.0,0.0,Imported cases only,1.0
+10,Angola,2.0,0.0,0.0,0.0,Imported cases only,6.0
+11,Gambia,2.0,0.0,1.0,1.0,Imported cases only,3.0
+12,Guinea-Bissau,2.0,0.0,0.0,0.0,Imported cases only,2.0
+13,Territories**,,,,,,
+14,Réunion,135.0,0.0,0.0,0.0,Local transmission,1.0
+15,Mayotte,50.0,0.0,0.0,0.0,Local transmission,1.0
+16,Subtotal for all,,,,,,
+17,,570966.0,62514.0,26487.0,3159.0,,
+18,regions,,,,,,
+19,International,,,,,,
+20,conveyance,712.0,0.0,7.0,0.0,Local transmission,12.0
+21,(Diamond Princess),,,,,,
+22,Grand total,571678.0,62514.0,26494.0,3159.0,,

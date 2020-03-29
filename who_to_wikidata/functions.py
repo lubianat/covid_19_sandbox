@@ -3,7 +3,7 @@
 import datetime as dt
 from datetime import date
 from datetime import timedelta
-
+from wikidataintegrator import wdi_core
 from pathlib import Path
 import requests
 
@@ -114,3 +114,9 @@ def list_duplicates(seq):
   seen_twice = set( x for x in seq if x in seen or seen_add(x) )
   # turn the set into a list (as requested)
   return list( seen_twice )
+
+def get_values_for_item_property_pair(item, wikidata_property):
+    my_first_wikidata_item = wdi_core.WDItemEngine(wd_item_id=item)
+    claim_values = pd.to_numeric(pd.json_normalize(my_first_wikidata_item.get_wd_json_representation()["claims"][wikidata_property])["mainsnak.datavalue.value.amount"])
+    return(claim_values)
+    

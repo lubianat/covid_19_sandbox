@@ -3,7 +3,7 @@
 import datetime as dt
 from datetime import date
 from datetime import timedelta
-
+from wikidataintegrator import wdi_core
 from pathlib import Path
 import requests
 
@@ -86,3 +86,37 @@ def get_wikidata_date_from_report_number(report_number):
     report_date = first_report_date + timedelta(report_number)
     date_string = report_date.strftime("+%Y-%m-%dT00:00:00Z/11")
     return(date_string)
+
+
+import pandas as pd
+
+def match_who_table_to_qids(who, dictionary, output_file):
+    who_table_with_qids_by_label = who.merge(dictionary, on = "country", how = "left" )
+    who_table_with_qids_by_label = who_table_with_qids_by_label[["country", "total_cases", "total_deaths", "outbreak_qid", "outbreak"]].dropna().drop_duplicates()
+
+    who_table_with_qids_by_alias = who.merge(dictionary, left_on = "country", right_on = "other_names", how = "left" )
+    who_table_with_qids_by_alias = who_table_with_qids_by_alias[["country_x", "total_cases", "total_deaths", "outbreak_qid", "outbreak"]].dropna().drop_duplicates()
+    who_table_with_qids_by_alias.columns = ["country", "total_cases", "total_deaths", "outbreak_qid", "outbreak"]
+
+
+    ## Now we will join both tables 
+    who_table_with_qids = who_table_with_qids_by_label.append(who_table_with_qids_by_alias)
+
+    #t will have to be manually curated for items that possibly are mistaken. It is okay.
+    who_table_with_qids.to_csv(output_file)
+    
+    return(who_table_with_qids)
+
+def list_duplicates(seq):
+  seen = set()
+  seen_add = seen.add
+  # adds all elements it doesn't know yet to seen and all other to seen_twice
+  seen_twice = set( x for x in seq if x in seen or seen_add(x) )
+  # turn the set into a list (as requested)
+  return list( seen_twice )
+
+def get_values_for_item_property_pair(item, wikidata_property):
+    my_first_wikidata_item = wdi_core.WDItemEngine(wd_item_id=item)
+    claim_values = pd.to_numeric(pd.json_normalize(my_first_wikidata_item.get_wd_json_representation()["claims"][wikidata_property])["mainsnak.datavalue.value.amount"])
+    return(claim_values)
+    
